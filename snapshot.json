@@ -1,7 +1,7 @@
 {
-  "ts": 1787658780.3053582,
-  "time_utc": "2026-08-25 11:53:00",
-  "price": 835.85,
+  "ts": 1787659087.014261,
+  "time_utc": "2026-08-25 11:58:07",
+  "price": 836.92,
   "funding_8h": 0.01,
   "oi_usd": 450792020.40191084,
   "oi_delta_1h": -0.34678782970833805,
@@ -9,13 +9,7 @@
   "last_4h_close": 852.52,
   "last_1h_open": 839.67,
   "last_1h_close": 842.43,
-  "walls": [
-    {
-      "price": 829.33,
-      "usd": 313137.59207,
-      "side": "bid"
-    }
-  ],
+  "walls": [],
   "agg_oi_usd": null,
   "agg_funding_8h": null,
   "long_short_ratio": null,
