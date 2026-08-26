@@ -1,0 +1,112 @@
+{
+  "updated": 1787772639.9718828,
+  "assets": [
+    {
+      "ts": 1787772643.498067,
+      "asset": "ZEC",
+      "price": 787.51,
+      "funding_8h": 0.01,
+      "oi_delta_1h": 0.8868051332967626,
+      "oi_delta_4h": 2.5567351482290968,
+      "position": {
+        "has_position": false
+      },
+      "levels": {
+        "floor_zone": [
+          795,
+          810
+        ],
+        "ceiling_zone": [
+          849,
+          870
+        ],
+        "breakdown_level": 780,
+        "breakout_level": 870,
+        "targets_down": [
+          760,
+          716,
+          666
+        ],
+        "targets_up": [
+          900,
+          960,
+          1000
+        ]
+      },
+      "signals": [
+        {
+          "setup": "C",
+          "side": "short",
+          "message": "🔴 ВХОД В ШОРТ (сетап C — пробой уровня вниз): цена сломала 780, 4H-свеча закрылась на 770.5. Стоп $785, цели вниз [760, 716, 666]"
+        }
+      ]
+    },
+    {
+      "ts": 1787772647.948934,
+      "asset": "SOL",
+      "price": 96.72,
+      "funding_8h": 0.009027,
+      "oi_delta_1h": -0.12728703880006112,
+      "oi_delta_4h": 0.8113871910284632,
+      "position": {
+        "has_position": false
+      },
+      "levels": {
+        "floor_zone": [
+          94,
+          96
+        ],
+        "ceiling_zone": [
+          100,
+          102
+        ],
+        "breakdown_level": 93,
+        "breakout_level": 103,
+        "targets_down": [
+          95,
+          93,
+          92
+        ],
+        "targets_up": [
+          101,
+          103
+        ]
+      },
+      "signals": []
+    },
+    {
+      "ts": 1787772653.1842792,
+      "asset": "SNDK",
+      "price": 1498.6,
+      "funding_8h": 0.0,
+      "oi_delta_1h": -2.262428488362378,
+      "oi_delta_4h": -5.346712441805688,
+      "position": {
+        "has_position": false
+      },
+      "levels": {
+        "floor_zone": [
+          1468,
+          1498
+        ],
+        "ceiling_zone": [
+          1522,
+          1552
+        ],
+        "breakdown_level": 1433,
+        "breakout_level": 1574,
+        "targets_down": [
+          1483,
+          1433,
+          1420
+        ],
+        "targets_up": [
+          1537,
+          1574,
+          1580
+        ]
+      },
+      "signals": []
+    }
+  ]
+}
