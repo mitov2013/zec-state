@@ -1,13 +1,13 @@
 {
-  "ts": 1787846036.4854987,
-  "time_utc": "2026-08-27 15:53:56",
-  "bot_version": "c02ffdf",
+  "ts": 1787846343.8228774,
+  "time_utc": "2026-08-27 15:59:03",
+  "bot_version": "4cd485d",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 807.12,
+  "price": 803.05,
   "funding_8h": 0.01,
   "oi_usd": 406733437.95425,
   "oi_delta_1h": 0.7208984523575511,
@@ -17,37 +17,19 @@
   "last_1h_close": 794.76,
   "walls": [
     {
-      "price": 800.4,
-      "usd": 324451.7448,
+      "price": 792.0,
+      "usd": 2020121.928,
       "side": "bid"
     },
     {
-      "price": 808.0,
-      "usd": 566450.824,
-      "side": "ask"
-    },
-    {
       "price": 810.0,
-      "usd": 447839.28,
-      "side": "ask"
-    },
-    {
-      "price": 815.0,
-      "usd": 307603.82,
+      "usd": 450737.46,
       "side": "ask"
     }
   ],
-  "agg_oi_usd": 1604178910.8546,
-  "agg_funding_8h": 0.006675094786425577,
+  "agg_oi_usd": 1603120583.9963,
+  "agg_funding_8h": 0.006661751467911877,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": [
-    {
-      "setup": "A",
-      "side": "long",
-      "level": 800,
-      "message": "🟢 ВХОД В ЛОНГ (сетап A — отбой от пола): цена 807.1 у нижней границы, бид-стена $324,452 @ 800, фандинг 0.010%. Стоп $778, цели вверх к потолку $849–870",
-      "confirmed": true
-    }
-  ]
+  "signals": []
 }
