@@ -1,13 +1,13 @@
 {
-  "updated": 1787853464.5525906,
+  "updated": 1787853796.9190474,
   "assets": [
     {
-      "ts": 1787853469.98024,
+      "ts": 1787853800.1949203,
       "asset": "ZEC",
-      "price": 823.41,
+      "price": 821.17,
       "funding_8h": 0.01,
-      "oi_delta_1h": 1.9238785546205024,
-      "oi_delta_4h": 3.7406638781732706,
+      "oi_delta_1h": 2.914306098449925,
+      "oi_delta_4h": 5.688179666639794,
       "position": {
         "has_position": false
       },
@@ -36,12 +36,12 @@
       "signals": []
     },
     {
-      "ts": 1787853476.2336512,
+      "ts": 1787853803.5924335,
       "asset": "SNDK",
-      "price": 1481.09,
-      "funding_8h": 0.035268,
-      "oi_delta_1h": 0.6328020522136637,
-      "oi_delta_4h": 21.510357222240298,
+      "price": 1476.75,
+      "funding_8h": 0.035231,
+      "oi_delta_1h": -0.08026469712883064,
+      "oi_delta_4h": 5.2501946470413,
       "position": {
         "has_position": false
       },
@@ -70,29 +70,29 @@
       "signals": []
     },
     {
-      "ts": 1787853483.1459587,
+      "ts": 1787853807.5139487,
       "asset": "BTR",
-      "price": 0.15791,
-      "funding_8h": 0.037541,
-      "oi_delta_1h": -1.320701881106023,
-      "oi_delta_4h": -4.145433596904941,
+      "price": 0.15888,
+      "funding_8h": 0.037619,
+      "oi_delta_1h": -0.6819205857830906,
+      "oi_delta_4h": 0.4511721168540752,
       "position": {
         "has_position": false
       },
       "levels": {
         "floor_zone": [
-          0.1304,
-          0.1331
+          0.1249,
+          0.1274
         ],
         "ceiling_zone": [
           0.1778,
           0.1814
         ],
-        "breakdown_level": 0.1291,
+        "breakdown_level": 0.1236,
         "breakout_level": 0.1832,
         "targets_down": [
-          0.1318,
-          0.1278
+          0.1262,
+          0.1224
         ],
         "targets_up": [
           0.1796
@@ -101,12 +101,12 @@
       "signals": []
     },
     {
-      "ts": 1787853488.9949172,
+      "ts": 1787853811.5941544,
       "asset": "BTC",
-      "price": 80460.7,
-      "funding_8h": 0.00936,
-      "oi_delta_1h": 0.12023435519344206,
-      "oi_delta_4h": 3.6902489782659096,
+      "price": 80355.5,
+      "funding_8h": 0.009485,
+      "oi_delta_1h": 0.9858461758927772,
+      "oi_delta_4h": 4.144149201890767,
       "position": {
         "has_position": false
       },
