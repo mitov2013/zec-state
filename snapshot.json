@@ -1,13 +1,13 @@
 {
-  "ts": 1787854766.8856833,
-  "time_utc": "2026-08-27 18:19:26",
+  "ts": 1787855110.0834715,
+  "time_utc": "2026-08-27 18:25:10",
   "bot_version": "4cd485d",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 808.99,
+  "price": 808.42,
   "funding_8h": 0.01,
   "oi_usd": 426792426.67074,
   "oi_delta_1h": 2.914306098449925,
@@ -15,10 +15,29 @@
   "last_4h_close": 803.34,
   "last_1h_open": 811.8,
   "last_1h_close": 822.78,
-  "walls": [],
-  "agg_oi_usd": 1637000971.0146,
-  "agg_funding_8h": 0.006828271519249511,
+  "walls": [
+    {
+      "price": 800.93,
+      "usd": 361414.05598999996,
+      "side": "bid"
+    },
+    {
+      "price": 797.35,
+      "usd": 1603053.8359500002,
+      "side": "bid"
+    }
+  ],
+  "agg_oi_usd": 1643146680.5113,
+  "agg_funding_8h": 0.006878432337962962,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": []
+  "signals": [
+    {
+      "setup": "A",
+      "side": "long",
+      "level": 800,
+      "message": "🟢 ВХОД В ЛОНГ (сетап A — отбой от пола): цена 808.4 у нижней границы, бид-стена $361,414 @ 801, фандинг 0.010%. Стоп $778, цели вверх к потолку $849–870",
+      "confirmed": true
+    }
+  ]
 }
