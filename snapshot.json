@@ -1,35 +1,43 @@
 {
-  "ts": 1787806699.6122124,
-  "time_utc": "2026-08-27 04:58:19",
+  "ts": 1787807010.863087,
+  "time_utc": "2026-08-27 05:03:30",
   "bot_version": "bf3d4b5",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 777.28,
+  "price": 777.94,
   "funding_8h": 0.01,
-  "oi_usd": 400306296.66552,
-  "oi_delta_1h": -0.6406961989051589,
-  "oi_delta_4h": -5.838326722014293,
+  "oi_usd": 398654212.22047716,
+  "oi_delta_1h": -0.4127050857816669,
+  "oi_delta_4h": -3.9744753359690708,
   "last_4h_close": 780.25,
-  "last_1h_open": 781.52,
-  "last_1h_close": 780.25,
+  "last_1h_open": 780.24,
+  "last_1h_close": 777.71,
   "walls": [
     {
       "price": 770.0,
-      "usd": 391085.31,
+      "usd": 371486.5,
       "side": "bid"
     },
     {
       "price": 767.0,
-      "usd": 1083208.789,
+      "usd": 1083216.459,
       "side": "bid"
     }
   ],
-  "agg_oi_usd": 1527780276.9753,
-  "agg_funding_8h": 0.005829893034802042,
+  "agg_oi_usd": 1528857167.4235,
+  "agg_funding_8h": 0.005886792523148148,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": []
+  "signals": [
+    {
+      "setup": "C",
+      "side": "short",
+      "level": 780,
+      "message": "🟡 Слом 780 БЕЗ ОБЪЁМА (1H-закрытие 777.7, объём 0.5× < 1.5×) — жди подтверждения, НЕ вход.",
+      "confirmed": false
+    }
+  ]
 }
