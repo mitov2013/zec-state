@@ -1,13 +1,13 @@
 {
-  "ts": 1787946276.9990382,
-  "time_utc": "2026-08-28 19:44:36",
+  "ts": 1787946609.428392,
+  "time_utc": "2026-08-28 19:50:09",
   "bot_version": "49e1588",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 798.5,
+  "price": 795.64,
   "funding_8h": 0.01,
   "oi_usd": 395103169.5615202,
   "oi_delta_1h": -0.802606571973352,
@@ -17,24 +17,37 @@
   "last_1h_close": 789.68,
   "walls": [
     {
+      "price": 795.75,
+      "usd": 1223916.0195,
+      "side": "ask"
+    },
+    {
+      "price": 796.0,
+      "usd": 933787.6,
+      "side": "ask"
+    },
+    {
       "price": 801.0,
-      "usd": 440304.093,
+      "usd": 453046.401,
       "side": "ask"
     },
     {
       "price": 803.9,
-      "usd": 503886.93169999996,
-      "side": "ask"
-    },
-    {
-      "price": 810.0,
-      "usd": 520103.42999999993,
+      "usd": 483078.7841,
       "side": "ask"
     }
   ],
-  "agg_oi_usd": 1607749020.7761,
-  "agg_funding_8h": 0.006993341849747475,
+  "agg_oi_usd": 1605604949.9323,
+  "agg_funding_8h": 0.007045838303571429,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": []
+  "signals": [
+    {
+      "setup": "D",
+      "side": "short",
+      "level": 798,
+      "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 795.6 у верхней границы, отбойная 1H-свеча, фандинг 0.010%. Стоп $803, цель вниз $757",
+      "confirmed": true
+    }
+  ]
 }
