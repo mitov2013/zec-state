@@ -1,11 +1,11 @@
 {
-  "updated": 1787927347.1860693,
+  "updated": 1787927655.8513494,
   "assets": [
     {
-      "ts": 1787927350.826237,
+      "ts": 1787927660.1263716,
       "asset": "ZEC",
-      "price": 788.62,
-      "funding_8h": 0.0075829999999999995,
+      "price": 801.12,
+      "funding_8h": 0.007619999999999999,
       "oi_delta_1h": 0.3121010971382638,
       "oi_delta_4h": 0.6657926753317965,
       "position": {
@@ -13,33 +13,32 @@
       },
       "levels": {
         "floor_zone": [
-          796,
-          799
+          757,
+          763
         ],
         "ceiling_zone": [
-          816,
-          819
+          792,
+          798
         ],
-        "breakdown_level": 781,
-        "breakout_level": 835,
+        "breakdown_level": 743,
+        "breakout_level": 813,
         "targets_down": [
-          797,
-          778,
-          758
+          758,
+          581
         ],
         "targets_up": [
+          797,
           819,
-          834,
-          864
+          834
         ]
       },
       "signals": []
     },
     {
-      "ts": 1787927357.343485,
+      "ts": 1787927665.3277478,
       "asset": "SNDK",
-      "price": 1505.24,
-      "funding_8h": 0.00772,
+      "price": 1511.25,
+      "funding_8h": 0.005774,
       "oi_delta_1h": -0.7185547642244944,
       "oi_delta_4h": 0.6202461755832409,
       "position": {
@@ -70,10 +69,10 @@
       "signals": []
     },
     {
-      "ts": 1787927362.3157082,
+      "ts": 1787927669.1510596,
       "asset": "BTR",
-      "price": 0.16447,
-      "funding_8h": 0.04583,
+      "price": 0.16437,
+      "funding_8h": 0.046644,
       "oi_delta_1h": 0.10945800014424878,
       "oi_delta_4h": 2.599039738104752,
       "position": {
@@ -81,18 +80,18 @@
       },
       "levels": {
         "floor_zone": [
-          0.131,
-          0.1379
+          0.1298,
+          0.1369
         ],
         "ceiling_zone": [
-          0.1729,
-          0.1798
+          0.1728,
+          0.1799
         ],
-        "breakdown_level": 0.1298,
+        "breakdown_level": 0.1286,
         "breakout_level": 0.182,
         "targets_down": [
-          0.1324,
-          0.1285
+          0.1312,
+          0.1273
         ],
         "targets_up": [
           0.1784
@@ -101,10 +100,10 @@
       "signals": []
     },
     {
-      "ts": 1787927368.2326813,
+      "ts": 1787927673.529358,
       "asset": "BTC",
-      "price": 78707.2,
-      "funding_8h": 0.005194,
+      "price": 79215.1,
+      "funding_8h": 0.005224,
       "oi_delta_1h": -0.8308596130502319,
       "oi_delta_4h": -1.7800726998649916,
       "position": {
@@ -112,21 +111,22 @@
       },
       "levels": {
         "floor_zone": [
-          79128,
-          79457
+          76760,
+          77115
         ],
         "ceiling_zone": [
-          81122,
-          81451
+          78910,
+          79265
         ],
-        "breakdown_level": 77610,
-        "breakout_level": 83013,
+        "breakdown_level": 75294,
+        "breakout_level": 80778,
         "targets_down": [
-          79194,
           76831,
-          70450
+          70450,
+          64478
         ],
         "targets_up": [
+          79194,
           81385
         ]
       },
