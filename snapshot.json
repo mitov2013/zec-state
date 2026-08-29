@@ -1,13 +1,13 @@
 {
-  "ts": 1788006580.1511047,
-  "time_utc": "2026-08-29 12:29:40",
+  "ts": 1788006913.7591393,
+  "time_utc": "2026-08-29 12:35:13",
   "bot_version": "76c7207",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 809.19,
+  "price": 807.51,
   "funding_8h": 0.01,
   "oi_usd": 427361131.38253266,
   "oi_delta_1h": 1.168200024788077,
@@ -18,27 +18,22 @@
   "walls": [
     {
       "price": 815.0,
-      "usd": 362545.415,
+      "usd": 451599.65,
       "side": "ask"
     },
     {
       "price": 818.0,
-      "usd": 846809.9600000001,
+      "usd": 830182.474,
       "side": "ask"
     },
     {
       "price": 819.0,
-      "usd": 341812.926,
-      "side": "ask"
-    },
-    {
-      "price": 820.0,
-      "usd": 524181.72,
+      "usd": 353884.986,
       "side": "ask"
     }
   ],
-  "agg_oi_usd": 1727846524.3411,
-  "agg_funding_8h": 0.006674711265166026,
+  "agg_oi_usd": 1724065162.9028,
+  "agg_funding_8h": 0.006696149004629628,
   "long_short_ratio": null,
   "liq_magnets": [],
   "signals": []
