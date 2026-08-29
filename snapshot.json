@@ -1,32 +1,24 @@
 {
-  "ts": 1788018979.5400407,
-  "time_utc": "2026-08-29 15:56:19",
+  "ts": 1788019317.367278,
+  "time_utc": "2026-08-29 16:01:57",
   "bot_version": "76c7207",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 833.19,
+  "price": 834.15,
   "funding_8h": 0.01,
-  "oi_usd": 466858864.9612677,
-  "oi_delta_1h": 6.241772732132059,
-  "oi_delta_4h": 10.518406016363144,
-  "last_4h_close": 804.43,
-  "last_1h_open": 810.32,
-  "last_1h_close": 839.41,
+  "oi_usd": 465684177.41944253,
+  "oi_delta_1h": -0.2516151303933431,
+  "oi_delta_4h": 8.967368163064593,
+  "last_4h_close": 834.42,
+  "last_1h_open": 839.41,
+  "last_1h_close": 834.42,
   "walls": [],
-  "agg_oi_usd": 1841086957.1278,
-  "agg_funding_8h": 0.007119765258838385,
+  "agg_oi_usd": 1845936804.0345,
+  "agg_funding_8h": 0.004561232986111111,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": [
-    {
-      "setup": "falsifier",
-      "side": "oi",
-      "level": 6.241772732132059,
-      "message": "⚡ ОСТОРОЖНО (не вход): OI↑ + цена↑ = набор лонгов, перегрев — риск флеша ВНИЗ (для лонга) (+6.2% OI/1ч)",
-      "confirmed": true
-    }
-  ]
+  "signals": []
 }
