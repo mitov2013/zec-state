@@ -1,13 +1,13 @@
 {
-  "ts": 1788057287.2865987,
-  "time_utc": "2026-08-30 02:34:47",
+  "ts": 1788057633.7641072,
+  "time_utc": "2026-08-30 02:40:33",
   "bot_version": "76c7207",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 831.13,
+  "price": 834.07,
   "funding_8h": 0.01,
   "oi_usd": 476229377.66574,
   "oi_delta_1h": -0.4741308419398906,
@@ -15,16 +15,18 @@
   "last_4h_close": 841.24,
   "last_1h_open": 836.47,
   "last_1h_close": 831.8,
-  "walls": [
-    {
-      "price": 820.0,
-      "usd": 446844.24,
-      "side": "bid"
-    }
-  ],
-  "agg_oi_usd": 1873512143.5783,
-  "agg_funding_8h": 0.0060255593409586075,
+  "walls": [],
+  "agg_oi_usd": 1878893859.7088,
+  "agg_funding_8h": 0.006024573842592595,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": []
+  "signals": [
+    {
+      "setup": "D",
+      "side": "short",
+      "level": 835,
+      "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 834.07 у верхней границы, отбойная 1H-свеча, фандинг 0.010%. Стоп $840.01, цель вниз $818.00",
+      "confirmed": true
+    }
+  ]
 }
