@@ -1,48 +1,40 @@
 {
-  "ts": 1788083994.968303,
-  "time_utc": "2026-08-30 09:59:54",
+  "ts": 1788084330.963818,
+  "time_utc": "2026-08-30 10:05:30",
   "bot_version": "76c7207",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 835.1,
+  "price": 833.78,
   "funding_8h": 0.01,
-  "oi_usd": 484712231.507276,
-  "oi_delta_1h": -0.06912824817785379,
-  "oi_delta_4h": 1.8769752358690834,
+  "oi_usd": 484660077.151525,
+  "oi_delta_1h": -0.010759859636468675,
+  "oi_delta_4h": 1.3860807847465142,
   "last_4h_close": 835.64,
-  "last_1h_open": 835.64,
-  "last_1h_close": 835.65,
+  "last_1h_open": 835.65,
+  "last_1h_close": 834.99,
   "walls": [
     {
       "price": 837.0,
-      "usd": 519835.59,
+      "usd": 530044.479,
       "side": "ask"
     },
     {
       "price": 840.0,
-      "usd": 357254.52,
+      "usd": 358386.0,
       "side": "ask"
     },
     {
       "price": 842.4,
-      "usd": 778988.34,
+      "usd": 799162.1352,
       "side": "ask"
     }
   ],
-  "agg_oi_usd": 1885914234.9683,
-  "agg_funding_8h": 0.006574975322897048,
+  "agg_oi_usd": 1883346111.0265,
+  "agg_funding_8h": 0.00646998060185185,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": [
-    {
-      "setup": "A",
-      "side": "long",
-      "level": 834,
-      "message": "🟢 ВХОД В ЛОНГ (сетап A — отбой от пола): цена 835.10 у нижней границы, отбойная 1H-свеча 835.64→835.65, фандинг 0.010%. Стоп $815.55, цели вверх к потолку $858.00–863.00",
-      "confirmed": true
-    }
-  ]
+  "signals": []
 }
