@@ -1,13 +1,13 @@
 {
-  "updated": 1788350317.0253386,
+  "updated": 1788350792.84929,
   "assets": [
     {
-      "ts": 1788350319.7837389,
+      "ts": 1788350797.637885,
       "asset": "BTR",
-      "price": 0.04906,
-      "funding_8h": -0.255334,
-      "oi_delta_1h": -0.5566336519888571,
-      "oi_delta_4h": -13.59376628876325,
+      "price": 0.04795,
+      "funding_8h": -0.247857,
+      "oi_delta_1h": -2.7250656766959334,
+      "oi_delta_4h": -5.0140497327017695,
       "position": {
         "has_position": false
       },
@@ -34,12 +34,12 @@
       "signals": []
     },
     {
-      "ts": 1788350322.539469,
+      "ts": 1788350800.4919994,
       "asset": "ETH",
-      "price": 2379.7,
-      "funding_8h": 0.001486,
-      "oi_delta_1h": -0.08038311818264991,
-      "oi_delta_4h": -1.7348314054957126,
+      "price": 2377.97,
+      "funding_8h": 0.001594,
+      "oi_delta_1h": 0.5169777704647415,
+      "oi_delta_4h": -1.1830778990329094,
       "position": {
         "has_position": false
       },
@@ -67,12 +67,12 @@
       "signals": []
     },
     {
-      "ts": 1788350325.4120033,
+      "ts": 1788350803.2947822,
       "asset": "HEMI",
-      "price": 0.014161,
+      "price": 0.014272,
       "funding_8h": 0.005,
-      "oi_delta_1h": -2.9943935072774086,
-      "oi_delta_4h": -4.668313111022142,
+      "oi_delta_1h": 0.904265207668818,
+      "oi_delta_4h": -4.231066707058657,
       "position": {
         "has_position": false
       },
@@ -94,15 +94,21 @@
           0.0177
         ]
       },
-      "signals": []
+      "signals": [
+        {
+          "setup": "A",
+          "side": "long",
+          "message": "🟢 ВХОД В ЛОНГ (сетап A — отбой от пола): цена 0.01427 у нижней границы, отбойная 1H-свеча 0.01426→0.01431, фандинг 0.005%. Стоп $0.01366, цели вверх к потолку $"
+        }
+      ]
     },
     {
-      "ts": 1788350328.368274,
+      "ts": 1788350806.0657501,
       "asset": "UAI",
-      "price": 0.5347,
-      "funding_8h": 0.04126,
-      "oi_delta_1h": -5.403974986802028,
-      "oi_delta_4h": -5.3691816656407365,
+      "price": 0.546,
+      "funding_8h": 0.039219,
+      "oi_delta_1h": 2.4674975198967144,
+      "oi_delta_4h": -2.952078919602987,
       "position": {
         "has_position": false
       },
@@ -127,49 +133,12 @@
       "signals": []
     },
     {
-      "ts": 1788350331.131584,
-      "asset": "ZEC",
-      "price": 797.77,
-      "funding_8h": 0.01,
-      "oi_delta_1h": -2.425497186845983,
-      "oi_delta_4h": -3.450394137314701,
-      "position": {
-        "has_position": false
-      },
-      "levels": {
-        "floor_zone": [
-          762,
-          767
-        ],
-        "ceiling_zone": [
-          793,
-          798
-        ],
-        "breakdown_level": 747,
-        "breakout_level": 813,
-        "targets_down": [
-          763,
-          581
-        ],
-        "targets_up": [
-          824
-        ]
-      },
-      "signals": [
-        {
-          "setup": "D",
-          "side": "short",
-          "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 797.77 у верхней границы, отбойная 1H-свеча, фандинг 0.010%. Стоп $802.79, цель вниз $762.00"
-        }
-      ]
-    },
-    {
-      "ts": 1788350334.0412662,
+      "ts": 1788350808.9130466,
       "asset": "SOL",
-      "price": 97.99,
-      "funding_8h": 0.005026,
-      "oi_delta_1h": 0.4187935340537516,
-      "oi_delta_4h": -0.5523520817260479,
+      "price": 97.96,
+      "funding_8h": 0.005051,
+      "oi_delta_1h": 1.1194332047677298,
+      "oi_delta_4h": 0.6960979760574187,
       "position": {
         "has_position": false
       },
@@ -197,17 +166,54 @@
         {
           "setup": "D",
           "side": "short",
-          "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 97.99 у верхней границы, отбойная 1H-свеча, фандинг 0.005%. Стоп $98.95, цель вниз $94.92"
+          "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 97.96 у верхней границы, отбойная 1H-свеча, фандинг 0.005%. Стоп $98.95, цель вниз $94.92"
         }
       ]
     },
     {
-      "ts": 1788350336.8891227,
+      "ts": 1788350811.6966825,
+      "asset": "ZEC",
+      "price": 797.31,
+      "funding_8h": 0.01,
+      "oi_delta_1h": 0.5566637220998036,
+      "oi_delta_4h": -3.4058398938359193,
+      "position": {
+        "has_position": false
+      },
+      "levels": {
+        "floor_zone": [
+          762,
+          767
+        ],
+        "ceiling_zone": [
+          793,
+          798
+        ],
+        "breakdown_level": 747,
+        "breakout_level": 813,
+        "targets_down": [
+          763,
+          581
+        ],
+        "targets_up": [
+          824
+        ]
+      },
+      "signals": [
+        {
+          "setup": "D",
+          "side": "short",
+          "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 797.31 у верхней границы, отбойная 1H-свеча, фандинг 0.010%. Стоп $802.79, цель вниз $762.00"
+        }
+      ]
+    },
+    {
+      "ts": 1788350814.5343115,
       "asset": "USELESS",
-      "price": 0.10337,
-      "funding_8h": 0.000331,
-      "oi_delta_1h": -12.237821440109514,
-      "oi_delta_4h": -19.412840659791378,
+      "price": 0.10321,
+      "funding_8h": 0.001206,
+      "oi_delta_1h": -2.5781830355338653,
+      "oi_delta_4h": -23.317866764950704,
       "position": {
         "has_position": false
       },
@@ -232,12 +238,12 @@
       "signals": []
     },
     {
-      "ts": 1788350339.6749988,
+      "ts": 1788350817.297131,
       "asset": "龙虾",
-      "price": 0.07331,
-      "funding_8h": 0.037039,
-      "oi_delta_1h": 2.0080564074516167,
-      "oi_delta_4h": 7.242253671281006,
+      "price": 0.072694,
+      "funding_8h": 0.037679,
+      "oi_delta_1h": 2.5154955605039717,
+      "oi_delta_4h": 1.580351458526948,
       "position": {
         "has_position": false
       },
@@ -262,12 +268,12 @@
       "signals": []
     },
     {
-      "ts": 1788350342.4500628,
+      "ts": 1788350820.049352,
       "asset": "MAGMA",
-      "price": 0.53574,
-      "funding_8h": 0.032404,
-      "oi_delta_1h": 7.09870458528688,
-      "oi_delta_4h": 27.262336273587035,
+      "price": 0.53595,
+      "funding_8h": 0.030799,
+      "oi_delta_1h": 0.14019773981981823,
+      "oi_delta_4h": 18.381169401085764,
       "position": {
         "has_position": false
       },
@@ -290,21 +296,15 @@
           0.6265
         ]
       },
-      "signals": [
-        {
-          "setup": "falsifier",
-          "side": "oi",
-          "message": "⚡ ОСТОРОЖНО (не вход): OI↑ + цена↑ = набор лонгов, перегрев — риск флеша ВНИЗ (для лонга) (+7.1% OI/1ч)"
-        }
-      ]
+      "signals": []
     },
     {
-      "ts": 1788350347.061605,
+      "ts": 1788350822.8226423,
       "asset": "UNI",
-      "price": 5.739,
+      "price": 5.783,
       "funding_8h": 0.01,
-      "oi_delta_1h": -2.3811037577550094,
-      "oi_delta_4h": -6.42030544425003,
+      "oi_delta_1h": -7.035601544669312,
+      "oi_delta_4h": -13.555769865200396,
       "position": {
         "has_position": false
       },
@@ -330,42 +330,12 @@
       "signals": []
     },
     {
-      "ts": 1788350349.971088,
-      "asset": "SKR",
-      "price": 0.021288,
-      "funding_8h": -0.016044,
-      "oi_delta_1h": -0.45814362744938697,
-      "oi_delta_4h": -3.2870492451626134,
-      "position": {
-        "has_position": false
-      },
-      "levels": {
-        "floor_zone": [
-          0.0166,
-          0.0179
-        ],
-        "ceiling_zone": [
-          0.0243,
-          0.0255
-        ],
-        "breakdown_level": 0.0165,
-        "breakout_level": 0.0258,
-        "targets_down": [
-          0.0168
-        ],
-        "targets_up": [
-          0.0253
-        ]
-      },
-      "signals": []
-    },
-    {
-      "ts": 1788350352.7310138,
+      "ts": 1788350825.585074,
       "asset": "T",
-      "price": 0.005485,
-      "funding_8h": -2.0,
-      "oi_delta_1h": 48.03619922881357,
-      "oi_delta_4h": 86.40168532968353,
+      "price": 0.005437,
+      "funding_8h": -0.8100680000000001,
+      "oi_delta_1h": 51.98892705622355,
+      "oi_delta_4h": 172.48643044207708,
       "position": {
         "has_position": false
       },
@@ -391,17 +361,47 @@
         {
           "setup": "falsifier",
           "side": "oi",
-          "message": "⚡ ОСТОРОЖНО (не вход): OI↑ + цена↑ = набор лонгов, перегрев — риск флеша ВНИЗ (для лонга) (+48.0% OI/1ч)"
+          "message": "⚡ ОСТОРОЖНО (не вход): OI↑ + цена↑ = набор лонгов, перегрев — риск флеша ВНИЗ (для лонга) (+52.0% OI/1ч)"
         }
       ]
     },
     {
-      "ts": 1788350355.502507,
+      "ts": 1788350828.404737,
+      "asset": "SKR",
+      "price": 0.021215,
+      "funding_8h": -0.016217,
+      "oi_delta_1h": 1.4873252544394602,
+      "oi_delta_4h": 0.4242562319581012,
+      "position": {
+        "has_position": false
+      },
+      "levels": {
+        "floor_zone": [
+          0.0166,
+          0.0179
+        ],
+        "ceiling_zone": [
+          0.0243,
+          0.0255
+        ],
+        "breakdown_level": 0.0165,
+        "breakout_level": 0.0258,
+        "targets_down": [
+          0.0168
+        ],
+        "targets_up": [
+          0.0253
+        ]
+      },
+      "signals": []
+    },
+    {
+      "ts": 1788350831.1842203,
       "asset": "ACE",
-      "price": 0.19205,
-      "funding_8h": -0.445637,
-      "oi_delta_1h": -1.8983047710855874,
-      "oi_delta_4h": 0.39548393610408655,
+      "price": 0.18711,
+      "funding_8h": -0.43649,
+      "oi_delta_1h": -11.730637734029122,
+      "oi_delta_4h": -12.475752022757076,
       "position": {
         "has_position": false
       },
@@ -426,12 +426,12 @@
       "signals": []
     },
     {
-      "ts": 1788350358.448283,
+      "ts": 1788350833.9852169,
       "asset": "XRP",
-      "price": 1.3228,
-      "funding_8h": 0.008996,
-      "oi_delta_1h": -0.8060818873786086,
-      "oi_delta_4h": -0.8944703874935496,
+      "price": 1.323,
+      "funding_8h": 0.008915999999999999,
+      "oi_delta_1h": 1.2490380087864228,
+      "oi_delta_4h": 0.2586447668781089,
       "position": {
         "has_position": false
       },
@@ -459,12 +459,12 @@
       "signals": []
     },
     {
-      "ts": 1788350361.4218855,
+      "ts": 1788350836.7692835,
       "asset": "FIL",
-      "price": 0.7721,
+      "price": 0.7693,
       "funding_8h": 0.01,
-      "oi_delta_1h": -2.4522048832465586,
-      "oi_delta_4h": -2.8309480920987697,
+      "oi_delta_1h": -0.3129563746290983,
+      "oi_delta_4h": -4.844360542591877,
       "position": {
         "has_position": false
       },
@@ -488,40 +488,47 @@
           0.86
         ]
       },
-      "signals": [
-        {
-          "setup": "D",
-          "side": "short",
-          "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 0.7721 у верхней границы, отбойная 1H-свеча, фандинг 0.010%. Стоп $0.78106, цель вниз $0.7402"
-        }
-      ]
+      "signals": []
     },
     {
-      "ts": 1788350364.2286322,
+      "ts": 1788350839.6553245,
       "asset": "牛来",
-      "price": 0.07156,
-      "funding_8h": 0.037506,
-      "oi_delta_1h": -5.994980114894547,
-      "oi_delta_4h": -11.887939098878512,
+      "price": 0.07253,
+      "funding_8h": 0.037764,
+      "oi_delta_1h": -0.5381062741031188,
+      "oi_delta_4h": -12.418278057791717,
       "position": {
         "has_position": false
       },
-      "levels": null,
-      "signals": [
-        {
-          "setup": "C",
-          "side": "short",
-          "message": "🔴 ВХОД В ШОРТ (сетап C — пробой уровня вниз): цена сломала 780.00, 1H-свеча закрылась на 0.07339 (объём 2.5× среднего). Стоп $784.68, цели вниз [760.00, 716.00,"
-        }
-      ]
+      "levels": {
+        "floor_zone": [
+          0.0684,
+          0.0692
+        ],
+        "ceiling_zone": [
+          0.0734,
+          0.0742
+        ],
+        "breakdown_level": 0.0672,
+        "breakout_level": 0.0755,
+        "targets_down": [
+          0.0578,
+          0.0445
+        ],
+        "targets_up": [
+          0.0845,
+          0.0979
+        ]
+      },
+      "signals": []
     },
     {
-      "ts": 1788350368.5381813,
+      "ts": 1788350842.415563,
       "asset": "MARSCOIN",
-      "price": 0.06218,
+      "price": 0.06243,
       "funding_8h": 0.005,
-      "oi_delta_1h": -7.045360480732808,
-      "oi_delta_4h": -9.908147657954288,
+      "oi_delta_1h": -0.28574654674995703,
+      "oi_delta_4h": -9.08917334633174,
       "position": {
         "has_position": false
       },
@@ -529,73 +536,12 @@
       "signals": []
     },
     {
-      "ts": 1788350372.6998477,
-      "asset": "ENA",
-      "price": 0.15084,
-      "funding_8h": -0.0018830000000000001,
-      "oi_delta_1h": -4.610386916666737,
-      "oi_delta_4h": -6.342406554927489,
-      "position": {
-        "has_position": false
-      },
-      "levels": {
-        "floor_zone": [
-          0.1457,
-          0.1468
-        ],
-        "ceiling_zone": [
-          0.1524,
-          0.1536
-        ],
-        "breakdown_level": 0.143,
-        "breakout_level": 0.1564,
-        "targets_down": [
-          0.1347
-        ],
-        "targets_up": [
-          0.1659,
-          0.1837
-        ]
-      },
-      "signals": []
-    },
-    {
-      "ts": 1788350375.487214,
-      "asset": "ARB",
-      "price": 0.10771,
-      "funding_8h": 0.01,
-      "oi_delta_1h": -3.8347120000980133,
-      "oi_delta_4h": -2.254223271195858,
-      "position": {
-        "has_position": false
-      },
-      "levels": {
-        "floor_zone": [
-          0.1041,
-          0.1049
-        ],
-        "ceiling_zone": [
-          0.109,
-          0.1099
-        ],
-        "breakdown_level": 0.1021,
-        "breakout_level": 0.1119,
-        "targets_down": [
-          0.0942
-        ],
-        "targets_up": [
-          0.1201
-        ]
-      },
-      "signals": []
-    },
-    {
-      "ts": 1788350378.4524653,
+      "ts": 1788350846.5450532,
       "asset": "HYPE",
-      "price": 81.204,
-      "funding_8h": 0.002157,
-      "oi_delta_1h": -0.36554830307210096,
-      "oi_delta_4h": -2.526300990309764,
+      "price": 81.098,
+      "funding_8h": 0.002301,
+      "oi_delta_1h": 0.2560139542919581,
+      "oi_delta_4h": -1.6473564049015166,
       "position": {
         "has_position": false
       },
@@ -623,12 +569,73 @@
       "signals": []
     },
     {
-      "ts": 1788350381.266283,
+      "ts": 1788350849.3037355,
+      "asset": "ARB",
+      "price": 0.10779,
+      "funding_8h": 0.01,
+      "oi_delta_1h": -9.572489217479593,
+      "oi_delta_4h": -12.307955076904184,
+      "position": {
+        "has_position": false
+      },
+      "levels": {
+        "floor_zone": [
+          0.1041,
+          0.1049
+        ],
+        "ceiling_zone": [
+          0.109,
+          0.1099
+        ],
+        "breakdown_level": 0.1021,
+        "breakout_level": 0.1119,
+        "targets_down": [
+          0.0942
+        ],
+        "targets_up": [
+          0.1201
+        ]
+      },
+      "signals": []
+    },
+    {
+      "ts": 1788350852.0787556,
+      "asset": "ENA",
+      "price": 0.15065,
+      "funding_8h": -0.0026720000000000003,
+      "oi_delta_1h": -0.5248061693170338,
+      "oi_delta_4h": -7.052911169840194,
+      "position": {
+        "has_position": false
+      },
+      "levels": {
+        "floor_zone": [
+          0.1457,
+          0.1468
+        ],
+        "ceiling_zone": [
+          0.1524,
+          0.1536
+        ],
+        "breakdown_level": 0.143,
+        "breakout_level": 0.1564,
+        "targets_down": [
+          0.1347
+        ],
+        "targets_up": [
+          0.1659,
+          0.1837
+        ]
+      },
+      "signals": []
+    },
+    {
+      "ts": 1788350854.8154643,
       "asset": "CYS",
-      "price": 0.354,
-      "funding_8h": -0.011257999999999999,
-      "oi_delta_1h": 0.9691574705294557,
-      "oi_delta_4h": -2.512538455150716,
+      "price": 0.357,
+      "funding_8h": -0.010392,
+      "oi_delta_1h": 3.001690047230659,
+      "oi_delta_4h": 2.0547053301888747,
       "position": {
         "has_position": false
       },
@@ -655,12 +662,44 @@
       "signals": []
     },
     {
-      "ts": 1788350385.4293284,
+      "ts": 1788350857.743805,
+      "asset": "FF",
+      "price": 0.11088,
+      "funding_8h": 0.005,
+      "oi_delta_1h": 1.702207177032955,
+      "oi_delta_4h": 10.345737751454479,
+      "position": {
+        "has_position": false
+      },
+      "levels": {
+        "floor_zone": [
+          0.107,
+          0.1079
+        ],
+        "ceiling_zone": [
+          0.1124,
+          0.1133
+        ],
+        "breakdown_level": 0.1051,
+        "breakout_level": 0.1154,
+        "targets_down": [
+          0.1039,
+          0.0959
+        ],
+        "targets_up": [
+          0.1168,
+          0.1227
+        ]
+      },
+      "signals": []
+    },
+    {
+      "ts": 1788350861.8529496,
       "asset": "ONG",
-      "price": 0.09905,
-      "funding_8h": -0.071633,
-      "oi_delta_1h": -3.6984414484835684,
-      "oi_delta_4h": -2.506777786575266,
+      "price": 0.09892,
+      "funding_8h": -0.07279400000000001,
+      "oi_delta_1h": -0.2656532035174314,
+      "oi_delta_4h": -3.818886022821554,
       "position": {
         "has_position": false
       },
@@ -687,44 +726,12 @@
       "signals": []
     },
     {
-      "ts": 1788350388.2323098,
-      "asset": "FF",
-      "price": 0.11072,
-      "funding_8h": 0.005,
-      "oi_delta_1h": 1.31909292472995,
-      "oi_delta_4h": 9.76428479808693,
-      "position": {
-        "has_position": false
-      },
-      "levels": {
-        "floor_zone": [
-          0.107,
-          0.108
-        ],
-        "ceiling_zone": [
-          0.1127,
-          0.1137
-        ],
-        "breakdown_level": 0.1051,
-        "breakout_level": 0.1157,
-        "targets_down": [
-          0.1039,
-          0.0959
-        ],
-        "targets_up": [
-          0.1173,
-          0.1233
-        ]
-      },
-      "signals": []
-    },
-    {
-      "ts": 1788350391.1941323,
+      "ts": 1788350864.7170682,
       "asset": "NEAR",
-      "price": 1.857,
-      "funding_8h": -0.001139,
-      "oi_delta_1h": 0.6582592933088124,
-      "oi_delta_4h": -0.9297547366380279,
+      "price": 1.854,
+      "funding_8h": -0.0014960000000000002,
+      "oi_delta_1h": 0.8618248074541226,
+      "oi_delta_4h": 0.45731145975908616,
       "position": {
         "has_position": false
       },
@@ -752,12 +759,12 @@
       "signals": []
     },
     {
-      "ts": 1788350393.9892185,
+      "ts": 1788350867.5607963,
       "asset": "TRUMP",
-      "price": 2.188,
+      "price": 2.19,
       "funding_8h": 0.005,
-      "oi_delta_1h": -1.8310970829522877,
-      "oi_delta_4h": -3.671660875726678,
+      "oi_delta_1h": -0.05192902579083559,
+      "oi_delta_4h": -3.867476474930429,
       "position": {
         "has_position": false
       },
@@ -781,15 +788,21 @@
           2.38
         ]
       },
-      "signals": []
+      "signals": [
+        {
+          "setup": "D",
+          "side": "short",
+          "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 2.19 у верхней границы, отбойная 1H-свеча, фандинг 0.005%. Стоп $2.223, цель вниз $2.11"
+        }
+      ]
     },
     {
-      "ts": 1788350396.8555243,
+      "ts": 1788350870.3493283,
       "asset": "PROM",
-      "price": 4.564,
+      "price": 4.612,
       "funding_8h": 0.005,
-      "oi_delta_1h": -2.0424099429244644,
-      "oi_delta_4h": 0.778970233312354,
+      "oi_delta_1h": -3.0067492364858226,
+      "oi_delta_4h": -2.8811086344581445,
       "position": {
         "has_position": false
       },
@@ -811,46 +824,21 @@
           5.32
         ]
       },
-      "signals": []
+      "signals": [
+        {
+          "setup": "D",
+          "side": "short",
+          "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 4.612 у верхней границы, отбойная 1H-свеча, фандинг 0.005%. Стоп $4.728, цель вниз $4.04"
+        }
+      ]
     },
     {
-      "ts": 1788350399.6625793,
-      "asset": "CRV",
-      "price": 0.3604,
-      "funding_8h": 0.01,
-      "oi_delta_1h": -1.1739279744363678,
-      "oi_delta_4h": -5.642645392423391,
-      "position": {
-        "has_position": false
-      },
-      "levels": {
-        "floor_zone": [
-          0.353,
-          0.359
-        ],
-        "ceiling_zone": [
-          0.389,
-          0.395
-        ],
-        "breakdown_level": 0.3471,
-        "breakout_level": 0.4017,
-        "targets_down": [
-          0.3375,
-          0.3189
-        ],
-        "targets_up": [
-          0.3938
-        ]
-      },
-      "signals": []
-    },
-    {
-      "ts": 1788350406.4506695,
+      "ts": 1788350873.1261902,
       "asset": "PUMP",
-      "price": 0.004238,
+      "price": 0.004235,
       "funding_8h": 0.005,
-      "oi_delta_1h": -0.8723999574999382,
-      "oi_delta_4h": -5.091934457299449,
+      "oi_delta_1h": 1.5788581704806761,
+      "oi_delta_4h": -3.019759137524494,
       "position": {
         "has_position": false
       },
@@ -877,12 +865,43 @@
       "signals": []
     },
     {
-      "ts": 1788350409.2842407,
+      "ts": 1788350875.8931897,
+      "asset": "CRV",
+      "price": 0.36,
+      "funding_8h": 0.01,
+      "oi_delta_1h": -1.4172265170902796,
+      "oi_delta_4h": -6.630148228598072,
+      "position": {
+        "has_position": false
+      },
+      "levels": {
+        "floor_zone": [
+          0.353,
+          0.359
+        ],
+        "ceiling_zone": [
+          0.389,
+          0.395
+        ],
+        "breakdown_level": 0.3471,
+        "breakout_level": 0.4017,
+        "targets_down": [
+          0.3375,
+          0.3189
+        ],
+        "targets_up": [
+          0.3938
+        ]
+      },
+      "signals": []
+    },
+    {
+      "ts": 1788350878.6565647,
       "asset": "DOGE",
-      "price": 0.08121,
-      "funding_8h": 0.0063170000000000006,
-      "oi_delta_1h": 1.2879794623282896,
-      "oi_delta_4h": 0.39283852309412925,
+      "price": 0.08109,
+      "funding_8h": 0.006302,
+      "oi_delta_1h": 0.7245521097842483,
+      "oi_delta_4h": 1.304708021998503,
       "position": {
         "has_position": false
       },
@@ -903,7 +922,6 @@
           0.0692
         ],
         "targets_up": [
-          0.0824,
           0.0839,
           0.0861
         ]
@@ -911,33 +929,31 @@
       "signals": []
     },
     {
-      "ts": 1788350412.101201,
-      "asset": "AAVE",
-      "price": 126.13,
-      "funding_8h": 0.006771,
-      "oi_delta_1h": -0.08601710278856302,
-      "oi_delta_4h": -7.398619717878646,
+      "ts": 1788350881.4334843,
+      "asset": "LIT",
+      "price": 3.6317,
+      "funding_8h": 0.005,
+      "oi_delta_1h": 1.3162355567088442,
+      "oi_delta_4h": 3.3535914675401526,
       "position": {
         "has_position": false
       },
       "levels": {
         "floor_zone": [
-          126,
-          127
+          3.59,
+          3.62
         ],
         "ceiling_zone": [
-          130,
-          130
+          3.78,
+          3.81
         ],
-        "breakdown_level": 124,
-        "breakout_level": 133,
+        "breakdown_level": 3.52,
+        "breakout_level": 3.88,
         "targets_down": [
-          121,
-          91
+          3.44
         ],
         "targets_up": [
-          130,
-          145
+          3.81
         ]
       },
       "signals": []
