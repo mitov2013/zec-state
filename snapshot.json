@@ -1,13 +1,13 @@
 {
-  "ts": 1788401351.8906572,
-  "time_utc": "2026-09-03 02:09:11",
+  "ts": 1788401696.3939798,
+  "time_utc": "2026-09-03 02:14:56",
   "bot_version": "5ba268f",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 814.45,
+  "price": 818.96,
   "funding_8h": 0.01,
   "oi_usd": 425110934.15275,
   "oi_delta_1h": 1.773674647516861,
@@ -15,16 +15,18 @@
   "last_4h_close": 815.31,
   "last_1h_open": 808.3,
   "last_1h_close": 814.14,
-  "walls": [
-    {
-      "price": 818.0,
-      "usd": 887868.652,
-      "side": "ask"
-    }
-  ],
-  "agg_oi_usd": 1575859628.901,
-  "agg_funding_8h": 0.007569125578703706,
+  "walls": [],
+  "agg_oi_usd": 1582212846.9341,
+  "agg_funding_8h": 0.007590698991402118,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": []
+  "signals": [
+    {
+      "setup": "A",
+      "side": "long",
+      "level": 818,
+      "message": "🟢 ВХОД В ЛОНГ (сетап A — отбой от пола): цена 818.96 у нижней границы, отбойная 1H-свеча 808.30→814.14, фандинг 0.010%. Стоп $799.59, цели вверх к потолку $823.00–824.00",
+      "confirmed": true
+    }
+  ]
 }
