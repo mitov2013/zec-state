@@ -1,63 +1,45 @@
 {
-  "ts": 1788515916.5594306,
-  "time_utc": "2026-09-04 09:58:36",
+  "ts": 1788516265.6015334,
+  "time_utc": "2026-09-04 10:04:25",
   "bot_version": "83b9297",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 1004.28,
-  "funding_8h": 0.008527,
-  "oi_usd": 621351061.0993202,
-  "oi_delta_1h": 5.331852113771783,
-  "oi_delta_4h": 10.891453036484213,
+  "price": 998.62,
+  "funding_8h": 0.008553999999999999,
+  "oi_usd": 613634202.006291,
+  "oi_delta_1h": -1.2419483245713225,
+  "oi_delta_4h": 8.178814262963204,
   "last_4h_close": 967.2,
-  "last_1h_open": 967.21,
-  "last_1h_close": 1022.82,
+  "last_1h_open": 1022.83,
+  "last_1h_close": 1003.36,
   "walls": [
     {
-      "price": 1000.2,
-      "usd": 402593.5026,
+      "price": 998.0,
+      "usd": 341103.426,
       "side": "bid"
     },
     {
-      "price": 998.57,
-      "usd": 535620.96516,
+      "price": 988.0,
+      "usd": 579519.304,
       "side": "bid"
     },
     {
-      "price": 998.56,
-      "usd": 3586421.10608,
-      "side": "bid"
-    },
-    {
-      "price": 997.5,
-      "usd": 515451.1425000001,
-      "side": "bid"
+      "price": 1007.0,
+      "usd": 710808.069,
+      "side": "ask"
     },
     {
       "price": 1010.0,
-      "usd": 605574.7899999999,
-      "side": "ask"
-    },
-    {
-      "price": 1015.0,
-      "usd": 371778.26,
+      "usd": 970457.49,
       "side": "ask"
     }
   ],
-  "agg_oi_usd": 2327327570.2375,
-  "agg_funding_8h": 0.005021495483739346,
+  "agg_oi_usd": 2314194326.5179,
+  "agg_funding_8h": 0.0053058354836876005,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": [
-    {
-      "setup": "falsifier",
-      "side": "oi",
-      "level": 5.331852113771783,
-      "message": "⚡ ОСТОРОЖНО (не вход): OI↑ + цена↑ = набор лонгов, перегрев — риск флеша ВНИЗ (для лонга) (+5.3% OI/1ч)",
-      "confirmed": true
-    }
-  ]
+  "signals": []
 }
