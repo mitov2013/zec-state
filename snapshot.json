@@ -1,64 +1,64 @@
 {
-  "ts": 1789167309.77763,
-  "time_utc": "2026-09-11 22:55:09",
+  "ts": 1789167843.0832193,
+  "time_utc": "2026-09-11 23:04:03",
   "bot_version": "3d3f18e",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 1158.75,
-  "funding_8h": -0.012492,
-  "oi_usd": 584752190.38509,
-  "oi_delta_1h": -2.2485448295336377,
-  "oi_delta_4h": -1.900674263711043,
+  "price": 1159.62,
+  "funding_8h": -0.012058,
+  "oi_usd": 586423068.906,
+  "oi_delta_1h": 0.2857413017657383,
+  "oi_delta_4h": -0.5605270010115394,
   "last_4h_close": 1174.5,
-  "last_1h_open": 1182.09,
-  "last_1h_close": 1157.8,
+  "last_1h_open": 1157.8,
+  "last_1h_close": 1158.71,
   "walls": [
     {
-      "price": 1151.0,
-      "usd": 514343.917,
+      "price": 1153.95,
+      "usd": 424112.39745000005,
+      "side": "bid"
+    },
+    {
+      "price": 1151.69,
+      "usd": 423539.75595,
       "side": "bid"
     },
     {
       "price": 1150.0,
-      "usd": 405170.3,
+      "usd": 407438.1,
       "side": "bid"
     },
     {
-      "price": 1148.43,
-      "usd": 838813.272,
-      "side": "bid"
-    },
-    {
-      "price": 1146.14,
-      "usd": 944979.8224600002,
+      "price": 1148.04,
+      "usd": 464382.18,
       "side": "bid"
     },
     {
       "price": 1165.0,
-      "usd": 445788.41500000004,
+      "usd": 489181.17000000004,
       "side": "ask"
     },
     {
-      "price": 1165.34,
-      "usd": 925525.84674,
+      "price": 1166.79,
+      "usd": 476210.17023,
+      "side": "ask"
+    },
+    {
+      "price": 1169.15,
+      "usd": 472686.17585,
       "side": "ask"
     },
     {
       "price": 1170.0,
-      "usd": 574203.24,
-      "side": "ask"
-    },
-    {
-      "price": 1170.01,
-      "usd": 1022165.19638,
+      "usd": 539754.93,
       "side": "ask"
     }
   ],
-  "agg_oi_usd": 2198992461.9042,
-  "agg_funding_8h": -0.005373150717767779,
+  "agg_oi_usd": 2200008547.6325,
+  "agg_funding_8h": -0.005344659472606111,
   "long_short_ratio": null,
   "liq_magnets": [],
   "signals": []
