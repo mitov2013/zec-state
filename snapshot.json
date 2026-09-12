@@ -1,64 +1,69 @@
 {
-  "ts": 1789199752.9721234,
-  "time_utc": "2026-09-12 07:55:52",
+  "ts": 1789200079.9805894,
+  "time_utc": "2026-09-12 08:01:19",
   "bot_version": "3d3f18e",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 1150.1,
-  "funding_8h": 0.002938,
+  "price": 1147.79,
+  "funding_8h": 0.0030139999999999998,
   "oi_usd": 568666173.4833516,
   "oi_delta_1h": 0.05534187708181438,
   "oi_delta_4h": -0.6976871715846104,
-  "last_4h_close": 1134.2,
-  "last_1h_open": 1126.32,
-  "last_1h_close": 1130.59,
+  "last_4h_close": 1149.17,
+  "last_1h_open": 1130.58,
+  "last_1h_close": 1149.17,
   "walls": [
     {
-      "price": 1148.1,
-      "usd": 408568.6065,
+      "price": 1145.11,
+      "usd": 403660.43587999995,
       "side": "bid"
     },
     {
-      "price": 1146.58,
-      "usd": 551263.0516199999,
+      "price": 1143.9,
+      "usd": 552435.066,
       "side": "bid"
     },
     {
-      "price": 1144.23,
-      "usd": 547071.23799,
+      "price": 1141.95,
+      "usd": 552090.57285,
       "side": "bid"
     },
     {
-      "price": 1153.24,
-      "usd": 404881.80568,
+      "price": 1141.0,
+      "usd": 430507.287,
+      "side": "bid"
+    },
+    {
+      "price": 1151.54,
+      "usd": 410927.049,
       "side": "ask"
     },
     {
-      "price": 1155.14,
-      "usd": 551966.3219,
+      "price": 1152.17,
+      "usd": 558013.21355,
       "side": "ask"
     },
     {
-      "price": 1156.57,
-      "usd": 552858.96512,
+      "price": 1154.02,
+      "usd": 552702.87674,
       "side": "ask"
     },
     {
       "price": 1159.0,
-      "usd": 462522.13,
+      "usd": 467021.368,
       "side": "ask"
     },
     {
       "price": 1160.0,
-      "usd": 386224.32,
+      "usd": 415773.0,
       "side": "ask"
     }
   ],
-  "agg_oi_usd": 2140250265.423,
-  "agg_funding_8h": 0.0008107742817008398,
+  "agg_oi_usd": 2135148422.6929,
+  "agg_funding_8h": 0.0014712239564464834,
   "long_short_ratio": null,
   "liq_magnets": [],
   "signals": []
