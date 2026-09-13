@@ -1,53 +1,24 @@
 {
-  "ts": 1789333017.1266513,
-  "time_utc": "2026-09-13 20:56:57",
+  "ts": 1789333631.9527414,
+  "time_utc": "2026-09-13 21:07:11",
   "bot_version": "3d3f18e",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 1104.45,
-  "funding_8h": 0.007453,
-  "oi_usd": 537125816.9844702,
-  "oi_delta_1h": -2.7018847349404242,
-  "oi_delta_4h": -0.3912960266293124,
+  "price": 1102.11,
+  "funding_8h": 0.007474000000000001,
+  "oi_usd": 546786310.25762,
+  "oi_delta_1h": 1.7985531448452121,
+  "oi_delta_4h": -0.873359513528547,
   "last_4h_close": 1085.53,
-  "last_1h_open": 1107.35,
-  "last_1h_close": 1085.53,
-  "walls": [
-    {
-      "price": 1104.69,
-      "usd": 698930.73486,
-      "side": "ask"
-    },
-    {
-      "price": 1109.9,
-      "usd": 401857.0534,
-      "side": "ask"
-    },
-    {
-      "price": 1115.9,
-      "usd": 334770.0,
-      "side": "ask"
-    },
-    {
-      "price": 1116.9,
-      "usd": 335070.0,
-      "side": "ask"
-    }
-  ],
-  "agg_oi_usd": 1963148515.2615,
-  "agg_funding_8h": 0.006040689804419523,
+  "last_1h_open": 1085.53,
+  "last_1h_close": 1105.01,
+  "walls": [],
+  "agg_oi_usd": 1957432348.8418,
+  "agg_funding_8h": 0.005980642783794628,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": [
-    {
-      "setup": "D",
-      "side": "short",
-      "level": 1108,
-      "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 1,104.5 у верхней границы, отбойная 1H-свеча, фандинг 0.007%. Стоп $1,114.6, цель вниз $1,071.0",
-      "confirmed": true
-    }
-  ]
+  "signals": []
 }
