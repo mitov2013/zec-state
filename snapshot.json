@@ -1,54 +1,49 @@
 {
-  "ts": 1790459563.9443297,
-  "time_utc": "2026-09-26 21:52:43",
+  "ts": 1790460478.976025,
+  "time_utc": "2026-09-26 22:07:58",
   "bot_version": "3d3f18e",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 1683.24,
+  "price": 1670.53,
   "funding_8h": 0.01,
-  "oi_usd": 711121389.7221,
-  "oi_delta_1h": 0.36484646795619036,
-  "oi_delta_4h": 0.4842211979581603,
+  "oi_usd": 767198747.3601491,
+  "oi_delta_1h": 7.885764434671788,
+  "oi_delta_4h": 8.669517761420515,
   "last_4h_close": 1569.1,
-  "last_1h_open": 1569.1,
-  "last_1h_close": 1581.71,
+  "last_1h_open": 1581.72,
+  "last_1h_close": 1683.65,
   "walls": [
     {
-      "price": 1672.63,
-      "usd": 1288421.8711100002,
+      "price": 1661.4,
+      "usd": 1277757.8190000001,
       "side": "bid"
     },
     {
-      "price": 1670.0,
-      "usd": 633960.39,
+      "price": 1661.0,
+      "usd": 849895.4970000001,
       "side": "bid"
     },
     {
-      "price": 1668.31,
-      "usd": 1273909.8378299999,
+      "price": 1658.27,
+      "usd": 353546.48054,
       "side": "bid"
     },
     {
-      "price": 1687.44,
-      "usd": 764592.5635200001,
+      "price": 1681.02,
+      "usd": 1282082.01462,
       "side": "ask"
     },
     {
-      "price": 1687.46,
-      "usd": 5062405.3119,
+      "price": 1685.0,
+      "usd": 409143.275,
       "side": "ask"
     },
     {
-      "price": 1692.71,
-      "usd": 1270710.62616,
-      "side": "ask"
-    },
-    {
-      "price": 1696.87,
-      "usd": 1275800.19385,
+      "price": 1685.7,
+      "usd": 1232578.7829,
       "side": "ask"
     }
   ],
@@ -56,5 +51,13 @@
   "agg_funding_8h": null,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": []
+  "signals": [
+    {
+      "setup": "falsifier",
+      "side": "oi",
+      "level": 7.885764434671788,
+      "message": "⚡ ОСТОРОЖНО (не вход): OI↑ + цена↑ = набор лонгов, перегрев — риск флеша ВНИЗ (для лонга) (+7.9% OI/1ч)",
+      "confirmed": true
+    }
+  ]
 }
