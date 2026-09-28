@@ -1,49 +1,49 @@
 {
-  "ts": 1790588405.9312685,
-  "time_utc": "2026-09-28 09:40:05",
+  "ts": 1790590170.0675526,
+  "time_utc": "2026-09-28 10:09:30",
   "bot_version": "3d3f18e",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 1541.1,
+  "price": 1548.38,
   "funding_8h": 0.01,
-  "oi_usd": 681005492.4808326,
-  "oi_delta_1h": 0.9045479836779002,
-  "oi_delta_4h": 0.3276386257039363,
+  "oi_usd": 674844830.946,
+  "oi_delta_1h": -0.9046419746762899,
+  "oi_delta_4h": -0.6883989509539239,
   "last_4h_close": 1540.8,
-  "last_1h_open": 1540.79,
-  "last_1h_close": 1552.2,
+  "last_1h_open": 1552.2,
+  "last_1h_close": 1544.47,
   "walls": [
     {
+      "price": 1546.0,
+      "usd": 511758.466,
+      "side": "bid"
+    },
+    {
+      "price": 1538.65,
+      "usd": 1114391.8809,
+      "side": "bid"
+    },
+    {
       "price": 1538.0,
-      "usd": 334278.148,
+      "usd": 324636.426,
       "side": "bid"
     },
     {
-      "price": 1535.0,
-      "usd": 647071.5750000001,
-      "side": "bid"
+      "price": 1556.0,
+      "usd": 438885.36,
+      "side": "ask"
     },
     {
-      "price": 1530.35,
-      "usd": 1216045.18665,
-      "side": "bid"
+      "price": 1556.05,
+      "usd": 1121373.6567,
+      "side": "ask"
     },
     {
-      "price": 1530.0,
-      "usd": 5112069.66,
-      "side": "bid"
-    },
-    {
-      "price": 1528.97,
-      "usd": 1210944.24,
-      "side": "bid"
-    },
-    {
-      "price": 1550.45,
-      "usd": 1116324.0,
+      "price": 1560.73,
+      "usd": 1237502.817,
       "side": "ask"
     }
   ],
@@ -51,13 +51,5 @@
   "agg_funding_8h": null,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": [
-    {
-      "setup": "A",
-      "side": "long",
-      "level": 1536,
-      "message": "🟢 ВХОД В ЛОНГ (сетап A — отбой от пола): цена 1,541.1 у нижней границы, бид-стена $334,278 @ 1,538.0, фандинг 0.010%. Стоп $1,501.5, цели вверх к потолку $1,576.0–1,582.0",
-      "confirmed": true
-    }
-  ]
+  "signals": []
 }
