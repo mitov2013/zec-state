@@ -1,13 +1,13 @@
 {
-  "ts": 1791253943.8790674,
-  "time_utc": "2026-10-06 02:32:23",
+  "ts": 1791254425.281096,
+  "time_utc": "2026-10-06 02:40:25",
   "bot_version": "172ba7a",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 1343.57,
+  "price": 1344.52,
   "funding_8h": 0.01,
   "oi_usd": 652250819.40614,
   "oi_delta_1h": 0.03354902249340587,
@@ -18,7 +18,7 @@
   "walls": [
     {
       "price": 1349.8,
-      "usd": 370599.7382,
+      "usd": 380666.5466,
       "side": "ask"
     }
   ],
