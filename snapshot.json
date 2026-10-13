@@ -1,39 +1,39 @@
 {
-  "ts": 1791906980.6042342,
-  "time_utc": "2026-10-13 15:56:20",
+  "ts": 1791907528.1337428,
+  "time_utc": "2026-10-13 16:05:28",
   "bot_version": "172ba7a",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 1187.2,
+  "price": 1194.33,
   "funding_8h": 0.01,
-  "oi_usd": 529581333.7564099,
-  "oi_delta_1h": 0.6689357863888962,
-  "oi_delta_4h": -0.09961182520654634,
-  "last_4h_close": 1186.92,
-  "last_1h_open": 1187.81,
-  "last_1h_close": 1194.67,
+  "oi_usd": 525287651.5028972,
+  "oi_delta_1h": -0.810769183093533,
+  "oi_delta_4h": -0.38381101015367897,
+  "last_4h_close": 1189.94,
+  "last_1h_open": 1194.63,
+  "last_1h_close": 1189.94,
   "walls": [
     {
-      "price": 1179.8,
-      "usd": 851065.2472,
+      "price": 1186.75,
+      "usd": 869150.77825,
       "side": "bid"
     },
     {
-      "price": 1176.97,
-      "usd": 932160.24,
+      "price": 1184.01,
+      "usd": 951058.4005199999,
       "side": "bid"
     },
     {
-      "price": 1192.54,
-      "usd": 858628.7999999999,
+      "price": 1200.3,
+      "usd": 881094.6185999999,
       "side": "ask"
     },
     {
-      "price": 1196.86,
-      "usd": 953101.5081,
+      "price": 1206.05,
+      "usd": 985483.9578499999,
       "side": "ask"
     }
   ],
@@ -41,5 +41,13 @@
   "agg_funding_8h": null,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": []
+  "signals": [
+    {
+      "setup": "D",
+      "side": "short",
+      "level": 1198,
+      "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 1,194.3 у верхней границы, отбойная 1H-свеча, фандинг 0.010%. Стоп $1,205.2, цель вниз $1,115.0",
+      "confirmed": true
+    }
+  ]
 }
