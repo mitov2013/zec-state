@@ -1,11 +1,11 @@
 {
-  "updated": 1794333166.7586038,
+  "updated": 1794333612.6485925,
   "assets": [
     {
-      "ts": 1794333169.5334237,
+      "ts": 1794333618.4928696,
       "asset": "INIT",
-      "price": 0.27995,
-      "funding_8h": -0.8301869999999999,
+      "price": 0.27172,
+      "funding_8h": -0.8257779999999999,
       "oi_delta_1h": 4.900650348711282,
       "oi_delta_4h": 39.38349451705553,
       "position": {
@@ -13,29 +13,29 @@
       },
       "levels": {
         "floor_zone": [
-          0.2381,
-          0.241
+          0.2565,
+          0.2627
         ],
         "ceiling_zone": [
-          0.2555,
-          0.2583
+          0.2939,
+          0.3001
         ],
-        "breakdown_level": 0.2339,
-        "breakout_level": 0.2629,
+        "breakdown_level": 0.2526,
+        "breakout_level": 0.3048,
         "targets_down": [
+          0.2387,
           0.2036
         ],
         "targets_up": [
-          0.2849,
-          0.3149
+          0.3078
         ]
       },
       "signals": []
     },
     {
-      "ts": 1794333172.2220118,
+      "ts": 1794333623.6068099,
       "asset": "JCT",
-      "price": 0.005059,
+      "price": 0.005143,
       "funding_8h": 0.005,
       "oi_delta_1h": 3.461254213815058,
       "oi_delta_4h": -12.786050019013409,
@@ -44,31 +44,31 @@
       },
       "levels": {
         "floor_zone": [
-          0.005181,
-          0.005218
+          0.004972,
+          0.005003
         ],
         "ceiling_zone": [
-          0.0054,
-          0.005436
+          0.005163,
+          0.005195
         ],
-        "breakdown_level": 0.005085,
-        "breakout_level": 0.005538,
+        "breakdown_level": 0.004878,
+        "breakout_level": 0.005292,
         "targets_down": [
-          0.001681,
-          -0.001845
+          0.001617,
+          -0.001909
         ],
         "targets_up": [
-          0.008733,
-          0.012259
+          0.008669,
+          0.012195
         ]
       },
       "signals": []
     },
     {
-      "ts": 1794333174.944152,
+      "ts": 1794333628.0875955,
       "asset": "ETH",
-      "price": 2025.46,
-      "funding_8h": -0.0035840000000000004,
+      "price": 2026.18,
+      "funding_8h": -0.0035429999999999997,
       "oi_delta_1h": -0.5049314827101736,
       "oi_delta_4h": -3.374288956161435,
       "position": {
@@ -76,17 +76,17 @@
       },
       "levels": {
         "floor_zone": [
-          1981,
-          1991
+          1984,
+          1993
         ],
         "ceiling_zone": [
-          2042,
+          2043,
           2052
         ],
-        "breakdown_level": 1943,
+        "breakdown_level": 1946,
         "breakout_level": 2091,
         "targets_down": [
-          1923
+          1926
         ],
         "targets_up": [
           2216,
@@ -97,10 +97,10 @@
       "signals": []
     },
     {
-      "ts": 1794333177.6418183,
+      "ts": 1794333632.342322,
       "asset": "ZEC",
-      "price": 1038.22,
-      "funding_8h": -0.0021950000000000003,
+      "price": 1034.74,
+      "funding_8h": -0.002578,
       "oi_delta_1h": -5.9916027383231105,
       "oi_delta_4h": -12.463910743554354,
       "position": {
@@ -127,10 +127,10 @@
       "signals": []
     },
     {
-      "ts": 1794333181.2675874,
+      "ts": 1794333635.1118026,
       "asset": "BTC",
-      "price": 73087.8,
-      "funding_8h": 0.006249000000000001,
+      "price": 73231.4,
+      "funding_8h": 0.006298,
       "oi_delta_1h": -0.7438335859486157,
       "oi_delta_4h": -1.3772923128533505,
       "position": {
@@ -138,18 +138,18 @@
       },
       "levels": {
         "floor_zone": [
-          71503,
-          71770
+          71720,
+          71955
         ],
         "ceiling_zone": [
-          73120,
-          73386
+          73145,
+          73380
         ],
-        "breakdown_level": 70125,
+        "breakdown_level": 70331,
         "breakout_level": 74800,
         "targets_down": [
-          71557,
-          69410
+          71767,
+          69614
         ],
         "targets_up": [
           75977,
@@ -159,9 +159,9 @@
       "signals": []
     },
     {
-      "ts": 1794333184.8985503,
+      "ts": 1794333639.2002916,
       "asset": "AKE",
-      "price": 0.002823,
+      "price": 0.002829,
       "funding_8h": 0.005,
       "oi_delta_1h": -4.895638040539676,
       "oi_delta_4h": 1.278001393344011,
@@ -170,30 +170,31 @@
       },
       "levels": {
         "floor_zone": [
-          0.002892,
-          0.002981
+          0.002244,
+          0.002341
         ],
         "ceiling_zone": [
-          0.003434,
-          0.003523
+          0.002832,
+          0.002929
         ],
-        "breakdown_level": 0.002852,
-        "breakout_level": 0.003575,
+        "breakdown_level": 0.002218,
+        "breakout_level": 0.002968,
         "targets_down": [
-          0.00215
+          0.002103,
+          0.001377
         ],
         "targets_up": [
-          0.003646,
-          0.004371
+          0.003555,
+          0.004281
         ]
       },
       "signals": []
     },
     {
-      "ts": 1794333187.573319,
+      "ts": 1794333643.8881757,
       "asset": "SOL",
-      "price": 82.25,
-      "funding_8h": -0.005949,
+      "price": 82.2,
+      "funding_8h": -0.006024,
       "oi_delta_1h": -0.14560931586989964,
       "oi_delta_4h": -3.9691874374518696,
       "position": {
@@ -201,17 +202,17 @@
       },
       "levels": {
         "floor_zone": [
-          80.63,
-          81.22
+          80.43,
+          81.05
         ],
         "ceiling_zone": [
-          84.19,
+          84.17,
           84.78
         ],
-        "breakdown_level": 79.14,
+        "breakdown_level": 78.94,
         "breakout_level": 86.35,
         "targets_down": [
-          78.33
+          78.14
         ],
         "targets_up": [
           84.66,
@@ -222,9 +223,9 @@
       "signals": []
     },
     {
-      "ts": 1794333190.3445342,
+      "ts": 1794333647.923495,
       "asset": "ON",
-      "price": 0.1065,
+      "price": 0.107,
       "funding_8h": 0.005,
       "oi_delta_1h": -1.334037669646115,
       "oi_delta_4h": -0.4520031010697566,
@@ -243,23 +244,23 @@
         "breakdown_level": 0.0985,
         "breakout_level": 0.1153,
         "targets_down": [
-          0.0622,
-          0.0164
+          0.0612,
+          0.0154
         ],
         "targets_up": [
-          0.1538,
-          0.1996
+          0.1528,
+          0.1986
         ]
       },
       "signals": []
     },
     {
-      "ts": 1794333192.9933069,
+      "ts": 1794333652.0281885,
       "asset": "ONE",
-      "price": 0.0017628,
-      "funding_8h": -0.087007,
-      "oi_delta_1h": 3.0851105357731368,
-      "oi_delta_4h": -3.458556244853643,
+      "price": 0.0017529,
+      "funding_8h": -0.087579,
+      "oi_delta_1h": -5.954814177505274,
+      "oi_delta_4h": -3.467635792406787,
       "position": {
         "has_position": false
       },
@@ -278,17 +279,17 @@
           0.001565
         ],
         "targets_up": [
-          0.001932,
-          0.0021
+          0.001922,
+          0.002092
         ]
       },
       "signals": []
     },
     {
-      "ts": 1794333195.7508225,
+      "ts": 1794333656.076964,
       "asset": "XRP",
-      "price": 1.0539,
-      "funding_8h": 0.006959,
+      "price": 1.0518,
+      "funding_8h": 0.007251,
       "oi_delta_1h": -0.009420420465345802,
       "oi_delta_4h": -3.9648505009545523,
       "position": {
@@ -297,7 +298,7 @@
       "levels": {
         "floor_zone": [
           1.03,
-          1.03
+          1.04
         ],
         "ceiling_zone": [
           1.07,
@@ -309,7 +310,6 @@
           1.0
         ],
         "targets_up": [
-          1.08,
           1.15,
           1.2
         ]
@@ -317,9 +317,9 @@
       "signals": []
     },
     {
-      "ts": 1794333198.485637,
+      "ts": 1794333660.1136372,
       "asset": "1000PEPE",
-      "price": 0.0052734,
+      "price": 0.0052608,
       "funding_8h": 0.01,
       "oi_delta_1h": -3.3056541137042705,
       "oi_delta_4h": -7.931646261692283,
@@ -348,10 +348,10 @@
       "signals": []
     },
     {
-      "ts": 1794333201.1166227,
+      "ts": 1794333665.5635657,
       "asset": "PIEVERSE",
-      "price": 1.8163,
-      "funding_8h": 0.012883,
+      "price": 1.8263,
+      "funding_8h": 0.012044000000000001,
       "oi_delta_1h": -10.00567262804756,
       "oi_delta_4h": -14.006592987238834,
       "position": {
@@ -359,15 +359,15 @@
       },
       "levels": {
         "floor_zone": [
-          1.46,
-          1.57
+          1.44,
+          1.55
         ],
         "ceiling_zone": [
-          2.13,
-          2.24
+          2.1,
+          2.21
         ],
-        "breakdown_level": 1.45,
-        "breakout_level": 2.26,
+        "breakdown_level": 1.43,
+        "breakout_level": 2.24,
         "targets_down": [
           1.55,
           1.37
@@ -379,9 +379,9 @@
       "signals": []
     },
     {
-      "ts": 1794333203.7544284,
+      "ts": 1794333670.0295963,
       "asset": "HYPE",
-      "price": 71.024,
+      "price": 70.908,
       "funding_8h": 0.005,
       "oi_delta_1h": -0.9983063845845392,
       "oi_delta_4h": -3.733984732765877,
@@ -390,30 +390,29 @@
       },
       "levels": {
         "floor_zone": [
-          69.58,
-          70.0
+          69.4,
+          69.84
         ],
         "ceiling_zone": [
-          72.11,
-          72.52
+          72.09,
+          72.53
         ],
-        "breakdown_level": 68.27,
+        "breakdown_level": 68.1,
         "breakout_level": 73.89,
         "targets_down": [
-          67.58
+          67.41
         ],
         "targets_up": [
           76.89,
-          78.86,
           80.88
         ]
       },
       "signals": []
     },
     {
-      "ts": 1794333206.4649332,
+      "ts": 1794333674.428437,
       "asset": "NEAR",
-      "price": 3.527,
+      "price": 3.526,
       "funding_8h": 0.01,
       "oi_delta_1h": -2.426828058530968,
       "oi_delta_4h": -3.9374967790817403,
@@ -442,12 +441,12 @@
       "signals": []
     },
     {
-      "ts": 1794333209.549503,
+      "ts": 1794333677.615165,
       "asset": "CYBER",
-      "price": 0.2943,
-      "funding_8h": -0.061698,
-      "oi_delta_1h": -0.6589214186106064,
-      "oi_delta_4h": -1.026547512436762,
+      "price": 0.2949,
+      "funding_8h": -0.05513099999999999,
+      "oi_delta_1h": -0.6029631681550339,
+      "oi_delta_4h": -12.759488963512078,
       "position": {
         "has_position": false
       },
@@ -466,53 +465,54 @@
           0.2742
         ],
         "targets_up": [
-          0.315,
-          0.3346
+          0.3146,
+          0.3343
         ]
       },
       "signals": []
     },
     {
-      "ts": 1794333212.2703016,
+      "ts": 1794333682.5563772,
       "asset": "ARIA",
-      "price": 0.2118,
-      "funding_8h": 0.08448699999999999,
-      "oi_delta_1h": -1.6860624836337565,
-      "oi_delta_4h": 4.428214758971126,
+      "price": 0.21272,
+      "funding_8h": 0.085671,
+      "oi_delta_1h": 1.5936190511808064,
+      "oi_delta_4h": 8.40368071745861,
       "position": {
         "has_position": false
       },
       "levels": {
         "floor_zone": [
-          0.1719,
-          0.1791
+          0.1687,
+          0.1761
         ],
         "ceiling_zone": [
-          0.2153,
-          0.2225
+          0.2139,
+          0.2214
         ],
-        "breakdown_level": 0.1699,
-        "breakout_level": 0.2255,
+        "breakdown_level": 0.1668,
+        "breakout_level": 0.2243,
         "targets_down": [
-          0.1698
+          0.1698,
+          0.15
         ],
         "targets_up": [
-          0.2313,
-          0.2459
+          0.2273,
+          0.2419
         ]
       },
       "signals": [
         {
           "setup": "falsifier",
           "side": "funding",
-          "message": "⚡ ОСТОРОЖНО (не вход, предупреждение): фандинг экстрим +0.084% — лонги перегреты, риск резкого пролива вниз"
+          "message": "⚡ ОСТОРОЖНО (не вход, предупреждение): фандинг экстрим +0.086% — лонги перегреты, риск резкого пролива вниз"
         }
       ]
     },
     {
-      "ts": 1794333215.4723518,
+      "ts": 1794333686.6348705,
       "asset": "PROM",
-      "price": 5.407,
+      "price": 5.438,
       "funding_8h": 0.005,
       "oi_delta_1h": 1.3966474369939468,
       "oi_delta_4h": 1.047314828548355,
@@ -531,60 +531,53 @@
         "breakdown_level": 5.2,
         "breakout_level": 5.57,
         "targets_down": [
-          4.96,
-          4.59
+          4.99
         ],
         "targets_up": [
-          5.75
+          5.81,
+          6.18
         ]
       },
       "signals": []
     },
     {
-      "ts": 1794333218.2014303,
+      "ts": 1794333690.8641682,
       "asset": "DOGE",
-      "price": 0.0671,
-      "funding_8h": -0.006421,
-      "oi_delta_1h": -0.6126068562431604,
-      "oi_delta_4h": -2.131611811460846,
+      "price": 0.0669,
+      "funding_8h": -0.006902,
+      "oi_delta_1h": -1.0980789190401212,
+      "oi_delta_4h": -1.9015724359064283,
       "position": {
         "has_position": false
       },
       "levels": {
         "floor_zone": [
-          0.067,
-          0.0674
+          0.0655,
+          0.0657
         ],
         "ceiling_zone": [
-          0.0697,
-          0.0702
+          0.0669,
+          0.0671
         ],
-        "breakdown_level": 0.0657,
-        "breakout_level": 0.0715,
+        "breakdown_level": 0.0643,
+        "breakout_level": 0.0684,
         "targets_down": [
-          0.0656,
-          0.064
+          0.0636
         ],
         "targets_up": [
           0.0701,
           0.0725
         ]
       },
-      "signals": [
-        {
-          "setup": "A",
-          "side": "long",
-          "message": "🟢 ВХОД В ЛОНГ (сетап A — отбой от пола): цена 0.0671 у нижней границы, бид-стена $457,988 @ 0.06696, фандинг -0.006%. Стоп $0.0655, цели вверх к потолку $0.0697"
-        }
-      ]
+      "signals": []
     },
     {
-      "ts": 1794333220.947755,
+      "ts": 1794333697.4883473,
       "asset": "CAP",
-      "price": 0.10246,
-      "funding_8h": 0.022753000000000002,
-      "oi_delta_1h": 1.620892363305695,
-      "oi_delta_4h": 2.3458721997782086,
+      "price": 0.10401,
+      "funding_8h": 0.022901,
+      "oi_delta_1h": -3.991815954563476,
+      "oi_delta_4h": -7.16556997578375,
       "position": {
         "has_position": false
       },
@@ -610,43 +603,12 @@
       "signals": []
     },
     {
-      "ts": 1794333223.6314514,
-      "asset": "UAI",
-      "price": 0.0406,
-      "funding_8h": 0.005,
-      "oi_delta_1h": -0.680146006289683,
-      "oi_delta_4h": -10.79362693647346,
-      "position": {
-        "has_position": false
-      },
-      "levels": {
-        "floor_zone": [
-          0.033,
-          0.0354
-        ],
-        "ceiling_zone": [
-          0.0472,
-          0.0495
-        ],
-        "breakdown_level": 0.0328,
-        "breakout_level": 0.0501,
-        "targets_down": [
-          0.0325,
-          0.0241
-        ],
-        "targets_up": [
-          0.0506
-        ]
-      },
-      "signals": []
-    },
-    {
-      "ts": 1794333227.364013,
+      "ts": 1794333700.2787583,
       "asset": "ARB",
-      "price": 0.15641,
-      "funding_8h": -0.012554,
-      "oi_delta_1h": -3.181004201824748,
-      "oi_delta_4h": -5.915882725971725,
+      "price": 0.15654,
+      "funding_8h": -0.012672000000000001,
+      "oi_delta_1h": 0.4306953182719561,
+      "oi_delta_4h": -6.379067405911979,
       "position": {
         "has_position": false
       },
@@ -671,40 +633,10 @@
       "signals": []
     },
     {
-      "ts": 1794333233.4145384,
-      "asset": "AVAX",
-      "price": 8.237,
-      "funding_8h": -0.004185,
-      "oi_delta_1h": -0.42877625204924047,
-      "oi_delta_4h": -3.7059740832972006,
-      "position": {
-        "has_position": false
-      },
-      "levels": {
-        "floor_zone": [
-          8.03,
-          8.06
-        ],
-        "ceiling_zone": [
-          8.24,
-          8.28
-        ],
-        "breakdown_level": 7.87,
-        "breakout_level": 8.43,
-        "targets_down": [
-          7.7
-        ],
-        "targets_up": [
-          8.67
-        ]
-      },
-      "signals": []
-    },
-    {
-      "ts": 1794333236.0464647,
+      "ts": 1794333704.2943776,
       "asset": "UNI",
-      "price": 6.648,
-      "funding_8h": 0.001307,
+      "price": 6.676,
+      "funding_8h": 0.000211,
       "oi_delta_1h": -1.4154487935100675,
       "oi_delta_4h": -2.932284595359363,
       "position": {
@@ -731,73 +663,71 @@
       "signals": []
     },
     {
-      "ts": 1794333245.8813875,
-      "asset": "ENA",
-      "price": 0.14793,
+      "ts": 1794333707.0643883,
+      "asset": "UAI",
+      "price": 0.0408,
       "funding_8h": 0.005,
-      "oi_delta_1h": -1.259758384402177,
-      "oi_delta_4h": -5.212389101631391,
+      "oi_delta_1h": 0.9139198979937797,
+      "oi_delta_4h": -8.203708279206158,
       "position": {
         "has_position": false
       },
       "levels": {
         "floor_zone": [
-          0.1432,
-          0.145
+          0.033,
+          0.0354
         ],
         "ceiling_zone": [
-          0.1541,
-          0.1559
+          0.0471,
+          0.0494
         ],
-        "breakdown_level": 0.1407,
-        "breakout_level": 0.1587,
+        "breakdown_level": 0.0328,
+        "breakout_level": 0.0499,
         "targets_down": [
-          0.1431,
-          0.1374
+          0.0324,
+          0.024
         ],
         "targets_up": [
-          0.1555,
-          0.1665
+          0.0504
         ]
       },
       "signals": []
     },
     {
-      "ts": 1794333249.0643272,
-      "asset": "AAVE",
-      "price": 122.6,
-      "funding_8h": -0.0009459999999999999,
-      "oi_delta_1h": -0.9979434112186611,
-      "oi_delta_4h": -3.895597860132623,
+      "ts": 1794333711.0871608,
+      "asset": "AVAX",
+      "price": 8.25,
+      "funding_8h": -0.0040750000000000005,
+      "oi_delta_1h": -0.42877625204924047,
+      "oi_delta_4h": -3.7059740832972006,
       "position": {
         "has_position": false
       },
       "levels": {
         "floor_zone": [
-          115,
-          116
+          8.03,
+          8.06
         ],
         "ceiling_zone": [
-          122,
-          124
+          8.24,
+          8.28
         ],
-        "breakdown_level": 113,
-        "breakout_level": 126,
+        "breakdown_level": 7.87,
+        "breakout_level": 8.43,
         "targets_down": [
-          115
+          7.7
         ],
         "targets_up": [
-          129,
-          134
+          8.67
         ]
       },
       "signals": []
     },
     {
-      "ts": 1794333251.9319332,
+      "ts": 1794333715.1148648,
       "asset": "BTW",
-      "price": 1.2439,
-      "funding_8h": 0.005,
+      "price": 1.2719,
+      "funding_8h": 0.007957,
       "oi_delta_1h": -0.01285139697407058,
       "oi_delta_4h": 24.865253178819316,
       "position": {
@@ -825,48 +755,105 @@
       "signals": []
     },
     {
-      "ts": 1794333254.6390667,
-      "asset": "AIN",
-      "price": 0.1168,
+      "ts": 1794333717.8844452,
+      "asset": "ENA",
+      "price": 0.14809,
       "funding_8h": 0.005,
-      "oi_delta_1h": 2.687887290202963,
-      "oi_delta_4h": 8.50352433407387,
+      "oi_delta_1h": 0.3528514719710441,
+      "oi_delta_4h": -4.400522116875709,
       "position": {
         "has_position": false
       },
       "levels": {
         "floor_zone": [
-          0.1167,
-          0.1182
+          0.1432,
+          0.145
         ],
         "ceiling_zone": [
-          0.1258,
-          0.1273
+          0.1541,
+          0.1559
         ],
-        "breakdown_level": 0.1146,
-        "breakout_level": 0.1295,
+        "breakdown_level": 0.1407,
+        "breakout_level": 0.1587,
+        "targets_down": [
+          0.1424,
+          0.1367
+        ],
+        "targets_up": [
+          0.1555,
+          0.1665
+        ]
+      },
+      "signals": []
+    },
+    {
+      "ts": 1794333723.4828753,
+      "asset": "AAVE",
+      "price": 122.9,
+      "funding_8h": -0.000733,
+      "oi_delta_1h": -0.9979434112186611,
+      "oi_delta_4h": -3.895597860132623,
+      "position": {
+        "has_position": false
+      },
+      "levels": {
+        "floor_zone": [
+          115,
+          116
+        ],
+        "ceiling_zone": [
+          122,
+          124
+        ],
+        "breakdown_level": 113,
+        "breakout_level": 126,
+        "targets_down": [
+          115
+        ],
+        "targets_up": [
+          129,
+          134
+        ]
+      },
+      "signals": []
+    },
+    {
+      "ts": 1794333728.454856,
+      "asset": "AIN",
+      "price": 0.11409,
+      "funding_8h": 0.005,
+      "oi_delta_1h": 1.240337603301883,
+      "oi_delta_4h": 7.963370630129408,
+      "position": {
+        "has_position": false
+      },
+      "levels": {
+        "floor_zone": [
+          0.0905,
+          0.0944
+        ],
+        "ceiling_zone": [
+          0.1139,
+          0.1177
+        ],
+        "breakdown_level": 0.0894,
+        "breakout_level": 0.1193,
         "targets_down": [
           0.0964
         ],
         "targets_up": [
-          0.1375
+          0.135
         ]
       },
-      "signals": [
-        {
-          "setup": "A",
-          "side": "long",
-          "message": "🟢 ВХОД В ЛОНГ (сетап A — отбой от пола): цена 0.1168 у нижней границы, отбойная 1H-свеча 0.11226→0.11547, фандинг 0.005%. Стоп $0.11426, цели вверх к потолку $0"
-        }
-      ]
+      "signals": []
     },
     {
-      "ts": 1794333257.3876734,
+      "ts": 1794333732.5216613,
       "asset": "SUI",
-      "price": 0.8111,
-      "funding_8h": -0.006111999999999999,
-      "oi_delta_1h": -0.2030955157181952,
-      "oi_delta_4h": -3.5513752773581464,
+      "price": 0.8095,
+      "funding_8h": -0.006378,
+      "oi_delta_1h": 1.4685403553132426,
+      "oi_delta_4h": -1.9812206815668323,
       "position": {
         "has_position": false
       },
@@ -882,8 +869,8 @@
         "breakdown_level": 0.784,
         "breakout_level": 0.8448,
         "targets_down": [
-          0.786,
-          0.7609
+          0.7844,
+          0.7593
         ],
         "targets_up": [
           0.854,
@@ -893,9 +880,9 @@
       "signals": []
     },
     {
-      "ts": 1794333260.0835547,
+      "ts": 1794333736.6223066,
       "asset": "BNB",
-      "price": 673.86,
+      "price": 674.06,
       "funding_8h": 0.0,
       "oi_delta_1h": -0.36944508436122625,
       "oi_delta_4h": -0.9724985805138208,
@@ -926,32 +913,31 @@
       "signals": []
     },
     {
-      "ts": 1794333262.8286593,
-      "asset": "EDGE",
-      "price": 0.3991,
+      "ts": 1794333739.5008652,
+      "asset": "IDOL",
+      "price": 0.031629,
       "funding_8h": 0.005,
-      "oi_delta_1h": -0.6676423036121956,
-      "oi_delta_4h": 0.15008957951003435,
+      "oi_delta_1h": -0.7353038593264458,
+      "oi_delta_4h": 3.900631358314969,
       "position": {
         "has_position": false
       },
       "levels": {
         "floor_zone": [
-          0.3736,
-          0.3843
+          0.0312,
+          0.0322
         ],
         "ceiling_zone": [
-          0.4386,
-          0.4493
+          0.0372,
+          0.0382
         ],
-        "breakdown_level": 0.3682,
-        "breakout_level": 0.4561,
+        "breakdown_level": 0.0308,
+        "breakout_level": 0.0387,
         "targets_down": [
-          0.3593,
-          0.3294
+          0.0282
         ],
         "targets_up": [
-          0.4472
+          0.0355
         ]
       },
       "signals": []
