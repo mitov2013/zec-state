@@ -1,14 +1,14 @@
 {
-  "ts": 1794799360.5134623,
-  "time_utc": "2026-11-16 03:22:40",
+  "ts": 1794799835.2406697,
+  "time_utc": "2026-11-16 03:30:35",
   "bot_version": "1c5c5c1",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 898.32,
-  "funding_8h": 0.00528,
+  "price": 892.77,
+  "funding_8h": 0.005353,
   "oi_usd": 394972608.04348445,
   "oi_delta_1h": 1.6726901320302103,
   "oi_delta_4h": -1.7230643363232996,
