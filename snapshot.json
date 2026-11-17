@@ -1,14 +1,14 @@
 {
-  "ts": 1794903083.986635,
-  "time_utc": "2026-11-17 08:11:23",
+  "ts": 1794903430.9398305,
+  "time_utc": "2026-11-17 08:17:10",
   "bot_version": "1c5c5c1",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 923.33,
-  "funding_8h": 0.005263,
+  "price": 924.79,
+  "funding_8h": 0.005506,
   "oi_usd": 464220464.58315,
   "oi_delta_1h": 1.2958959793130693,
   "oi_delta_4h": 1.0768345329108377,
@@ -17,48 +17,28 @@
   "last_1h_close": 925.58,
   "walls": [
     {
-      "price": 919.38,
-      "usd": 722227.23342,
+      "price": 920.26,
+      "usd": 721488.4413,
       "side": "bid"
     },
     {
-      "price": 915.58,
-      "usd": 802453.68194,
+      "price": 917.34,
+      "usd": 790898.4410999999,
       "side": "bid"
     },
     {
-      "price": 911.41,
-      "usd": 859496.0863999999,
-      "side": "bid"
-    },
-    {
-      "price": 923.0,
-      "usd": 1003604.6669999999,
+      "price": 929.48,
+      "usd": 733449.87956,
       "side": "ask"
     },
     {
-      "price": 928.25,
-      "usd": 723452.059,
+      "price": 932.29,
+      "usd": 814452.27316,
       "side": "ask"
     },
     {
-      "price": 930.0,
-      "usd": 302955.87,
-      "side": "ask"
-    },
-    {
-      "price": 930.98,
-      "usd": 798233.42376,
-      "side": "ask"
-    },
-    {
-      "price": 935.0,
-      "usd": 305052.16500000004,
-      "side": "ask"
-    },
-    {
-      "price": 935.54,
-      "usd": 882279.7078,
+      "price": 937.16,
+      "usd": 892947.6026799999,
       "side": "ask"
     }
   ],
@@ -66,13 +46,5 @@
   "agg_funding_8h": null,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": [
-    {
-      "setup": "B",
-      "side": "long",
-      "level": 870,
-      "message": "🟡 Пробой 870.00 БЕЗ ОБЪЁМА (4H 925.58, объём 0.6× < 1.5×) — жди подтверждения, НЕ вход.",
-      "confirmed": false
-    }
-  ]
+  "signals": []
 }
