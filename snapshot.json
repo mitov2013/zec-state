@@ -1,49 +1,54 @@
 {
-  "ts": 1794923658.8006103,
-  "time_utc": "2026-11-17 13:54:18",
+  "ts": 1794924128.8362625,
+  "time_utc": "2026-11-17 14:02:08",
   "bot_version": "1c5c5c1",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 950.43,
+  "price": 953.13,
   "funding_8h": 0.01,
-  "oi_usd": 467622923.55325,
-  "oi_delta_1h": 0.11269306515051547,
-  "oi_delta_4h": 1.8160063381636475,
+  "oi_usd": 472970932.81252,
+  "oi_delta_1h": 1.1436584884746384,
+  "oi_delta_4h": 3.4935954823766164,
   "last_4h_close": 950.08,
-  "last_1h_open": 950.08,
-  "last_1h_close": 947.75,
+  "last_1h_open": 947.75,
+  "last_1h_close": 953.21,
   "walls": [
     {
-      "price": 945.98,
-      "usd": 718061.25468,
+      "price": 947.29,
+      "usd": 723179.1845099999,
       "side": "bid"
     },
     {
-      "price": 943.88,
-      "usd": 725578.4897200001,
+      "price": 944.37,
+      "usd": 793046.0399399999,
       "side": "bid"
     },
     {
-      "price": 955.84,
-      "usd": 740423.29504,
+      "price": 957.65,
+      "usd": 732583.097,
       "side": "ask"
     },
     {
-      "price": 958.06,
-      "usd": 811660.76752,
+      "price": 959.84,
+      "usd": 804698.18128,
       "side": "ask"
     },
     {
       "price": 963.0,
-      "usd": 837174.42,
+      "usd": 750047.958,
       "side": "ask"
     },
     {
-      "price": 963.6,
-      "usd": 932254.0920000001,
+      "price": 965.0,
+      "usd": 773665.59,
+      "side": "ask"
+    },
+    {
+      "price": 965.88,
+      "usd": 887090.27076,
       "side": "ask"
     }
   ],
@@ -51,13 +56,5 @@
   "agg_funding_8h": null,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": [
-    {
-      "setup": "D",
-      "side": "short",
-      "level": 952,
-      "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 950.43 у верхней границы, отбойная 1H-свеча, фандинг 0.010%. Стоп $957.71, цель вниз $929.00",
-      "confirmed": true
-    }
-  ]
+  "signals": []
 }
