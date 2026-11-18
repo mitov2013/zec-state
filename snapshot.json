@@ -1,64 +1,49 @@
 {
-  "ts": 1794995939.5346386,
-  "time_utc": "2026-11-18 09:58:59",
+  "ts": 1794996372.9674757,
+  "time_utc": "2026-11-18 10:06:12",
   "bot_version": "1c5c5c1",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 949.99,
-  "funding_8h": 0.004918,
-  "oi_usd": 463136236.30872,
-  "oi_delta_1h": -0.5285658950861497,
-  "oi_delta_4h": -0.07171906921059283,
+  "price": 947.63,
+  "funding_8h": 0.005066,
+  "oi_usd": 466717473.1884,
+  "oi_delta_1h": 0.773257758499548,
+  "oi_delta_4h": -0.6643172769130726,
   "last_4h_close": 954.02,
-  "last_1h_open": 954.02,
-  "last_1h_close": 946.93,
+  "last_1h_open": 946.95,
+  "last_1h_close": 950.14,
   "walls": [
     {
       "price": 945.0,
-      "usd": 304057.53,
+      "usd": 428739.885,
       "side": "bid"
     },
     {
-      "price": 944.91,
-      "usd": 721810.13463,
+      "price": 942.22,
+      "usd": 717112.33536,
       "side": "bid"
     },
     {
-      "price": 941.84,
-      "usd": 337901.11128,
+      "price": 939.74,
+      "usd": 788623.22982,
       "side": "bid"
     },
     {
-      "price": 941.82,
-      "usd": 785767.0187400001,
-      "side": "bid"
-    },
-    {
-      "price": 954.34,
-      "usd": 723808.67526,
+      "price": 952.04,
+      "usd": 724480.54308,
       "side": "ask"
     },
     {
-      "price": 956.37,
-      "usd": 319365.41595,
+      "price": 954.71,
+      "usd": 799163.8732500001,
       "side": "ask"
     },
     {
-      "price": 957.2,
-      "usd": 798584.3024,
-      "side": "ask"
-    },
-    {
-      "price": 958.67,
-      "usd": 403164.83382,
-      "side": "ask"
-    },
-    {
-      "price": 962.49,
-      "usd": 883489.78329,
+      "price": 960.0,
+      "usd": 1092325.44,
       "side": "ask"
     }
   ],
@@ -66,13 +51,5 @@
   "agg_funding_8h": null,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": [
-    {
-      "setup": "D",
-      "side": "short",
-      "level": 952,
-      "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 949.99 у верхней границы, отбойная 1H-свеча, фандинг 0.005%. Стоп $957.71, цель вниз $929.00",
-      "confirmed": true
-    }
-  ]
+  "signals": []
 }
