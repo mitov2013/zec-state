@@ -1,54 +1,49 @@
 {
-  "ts": 1795125534.411339,
-  "time_utc": "2026-11-19 21:58:54",
+  "ts": 1795125956.1168904,
+  "time_utc": "2026-11-19 22:05:56",
   "bot_version": "1c5c5c1",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 879.6,
-  "funding_8h": 0.008015,
-  "oi_usd": 422725826.61444,
-  "oi_delta_1h": -2.0465987484433135,
-  "oi_delta_4h": -3.0580688239874494,
+  "price": 882.06,
+  "funding_8h": 0.008508,
+  "oi_usd": 419486750.6194,
+  "oi_delta_1h": -0.7662356523095282,
+  "oi_delta_4h": -4.3867229293421515,
   "last_4h_close": 903.32,
-  "last_1h_open": 903.32,
-  "last_1h_close": 888.13,
+  "last_1h_open": 888.13,
+  "last_1h_close": 880.27,
   "walls": [
     {
       "price": 877.56,
-      "usd": 744257.75844,
+      "usd": 747449.44416,
       "side": "bid"
     },
     {
-      "price": 875.42,
-      "usd": 719434.16272,
+      "price": 877.46,
+      "usd": 723175.33074,
       "side": "bid"
     },
     {
-      "price": 872.71,
-      "usd": 821866.78811,
+      "price": 874.83,
+      "usd": 789650.4273900001,
       "side": "bid"
     },
     {
-      "price": 868.14,
-      "usd": 863266.26204,
-      "side": "bid"
-    },
-    {
-      "price": 884.67,
-      "usd": 725916.85317,
+      "price": 886.53,
+      "usd": 726936.8694,
       "side": "ask"
     },
     {
-      "price": 887.11,
-      "usd": 801935.90757,
+      "price": 889.19,
+      "usd": 799934.88618,
       "side": "ask"
     },
     {
-      "price": 891.74,
-      "usd": 894230.62982,
+      "price": 893.9,
+      "usd": 884582.8803,
       "side": "ask"
     }
   ],
@@ -56,5 +51,13 @@
   "agg_funding_8h": null,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": []
+  "signals": [
+    {
+      "setup": "D",
+      "side": "short",
+      "level": 887,
+      "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 882.06 у верхней границы, отбойная 1H-свеча, фандинг 0.009%. Стоп $892.32, цель вниз $845.00",
+      "confirmed": true
+    }
+  ]
 }
