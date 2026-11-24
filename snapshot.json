@@ -1,14 +1,14 @@
 {
-  "ts": 1795484062.210808,
-  "time_utc": "2026-11-24 01:34:22",
+  "ts": 1795484500.2540176,
+  "time_utc": "2026-11-24 01:41:40",
   "bot_version": "1c5c5c1",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 786.92,
-  "funding_8h": -0.000555,
+  "price": 784.91,
+  "funding_8h": -0.00122,
   "oi_usd": 349962982.19889,
   "oi_delta_1h": 1.0855902996851254,
   "oi_delta_4h": -1.2774879543710147,
@@ -18,17 +18,12 @@
   "walls": [
     {
       "price": 776.0,
-      "usd": 1165267.984,
+      "usd": 1166023.032,
       "side": "bid"
     },
     {
       "price": 796.66,
       "usd": 307712.31497999997,
-      "side": "ask"
-    },
-    {
-      "price": 800.0,
-      "usd": 2226273.6,
       "side": "ask"
     }
   ],
