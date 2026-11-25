@@ -1,74 +1,54 @@
 {
-  "ts": 1795618383.341536,
-  "time_utc": "2026-11-25 14:53:03",
+  "ts": 1795618846.5870013,
+  "time_utc": "2026-11-25 15:00:46",
   "bot_version": "1c5c5c1",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 682.4,
+  "price": 697.6,
   "funding_8h": 0.01,
   "oi_usd": 335522791.72512347,
   "oi_delta_1h": -0.5899586125763956,
   "oi_delta_4h": -0.8992801163465493,
   "last_4h_close": 719.6,
-  "last_1h_open": 715.25,
-  "last_1h_close": 692.8,
+  "last_1h_open": 692.8,
+  "last_1h_close": 695.5,
   "walls": [
     {
-      "price": 678.56,
-      "usd": 766824.37056,
+      "price": 692.05,
+      "usd": 741456.1415500001,
       "side": "bid"
     },
     {
-      "price": 675.47,
-      "usd": 839166.7771500001,
+      "price": 686.08,
+      "usd": 890069.42208,
       "side": "bid"
     },
     {
-      "price": 673.82,
-      "usd": 471356.63078,
+      "price": 683.52,
+      "usd": 1386676.16256,
       "side": "bid"
     },
     {
-      "price": 672.1,
-      "usd": 918457.5829,
-      "side": "bid"
-    },
-    {
-      "price": 671.0,
-      "usd": 812483.705,
-      "side": "bid"
-    },
-    {
-      "price": 684.41,
-      "usd": 439437.07547,
+      "price": 702.92,
+      "usd": 764292.6481199999,
       "side": "ask"
     },
     {
-      "price": 686.77,
-      "usd": 777575.41617,
+      "price": 704.9,
+      "usd": 846295.1860999999,
       "side": "ask"
     },
     {
-      "price": 688.28,
-      "usd": 854982.10428,
+      "price": 706.0,
+      "usd": 434346.73199999996,
       "side": "ask"
     },
     {
-      "price": 693.06,
-      "usd": 958955.2412399999,
-      "side": "ask"
-    },
-    {
-      "price": 693.22,
-      "usd": 715823.8245400001,
-      "side": "ask"
-    },
-    {
-      "price": 696.0,
-      "usd": 437828.544,
+      "price": 708.13,
+      "usd": 929524.72011,
       "side": "ask"
     }
   ],
@@ -76,5 +56,13 @@
   "agg_funding_8h": null,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": []
+  "signals": [
+    {
+      "setup": "B",
+      "side": "long",
+      "level": 693,
+      "message": "🟡 Пробой 693.00 БЕЗ ОБЪЁМА (4H 719.60, объём 0.6× < 1.5×) — жди подтверждения, НЕ вход.",
+      "confirmed": false
+    }
+  ]
 }
