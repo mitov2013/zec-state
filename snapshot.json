@@ -1,59 +1,49 @@
 {
-  "ts": 1795657981.938005,
-  "time_utc": "2026-11-26 01:53:01",
+  "ts": 1795658431.1137867,
+  "time_utc": "2026-11-26 02:00:31",
   "bot_version": "1c5c5c1",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 776.9,
+  "price": 776.04,
   "funding_8h": 0.01,
   "oi_usd": 368780862.85162,
   "oi_delta_1h": -1.1249843471433592,
   "oi_delta_4h": 0.8529995705821982,
   "last_4h_close": 771.06,
-  "last_1h_open": 771.05,
-  "last_1h_close": 767.15,
+  "last_1h_open": 767.13,
+  "last_1h_close": 777.3,
   "walls": [
     {
-      "price": 775.95,
-      "usd": 640705.0188,
+      "price": 772.53,
+      "usd": 650449.40169,
       "side": "bid"
     },
     {
-      "price": 772.52,
-      "usd": 679151.68776,
+      "price": 770.31,
+      "usd": 737365.38192,
       "side": "bid"
     },
     {
-      "price": 771.85,
-      "usd": 416755.7764,
+      "price": 766.46,
+      "usd": 781018.14124,
       "side": "bid"
     },
     {
-      "price": 770.67,
-      "usd": 652197.98358,
-      "side": "bid"
-    },
-    {
-      "price": 765.51,
-      "usd": 790692.9824699999,
-      "side": "bid"
-    },
-    {
-      "price": 781.81,
-      "usd": 688308.6512399999,
+      "price": 781.32,
+      "usd": 652098.2665200001,
       "side": "ask"
     },
     {
-      "price": 783.57,
-      "usd": 735769.8792900001,
+      "price": 784.1,
+      "usd": 720228.7822,
       "side": "ask"
     },
     {
-      "price": 787.22,
-      "usd": 808045.11788,
+      "price": 788.02,
+      "usd": 795068.05088,
       "side": "ask"
     }
   ],
@@ -61,13 +51,5 @@
   "agg_funding_8h": null,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": [
-    {
-      "setup": "D",
-      "side": "short",
-      "level": 777,
-      "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 776.90 у верхней границы, отбойная 1H-свеча, фандинг 0.010%. Стоп $781.66, цель вниз $760.00",
-      "confirmed": true
-    }
-  ]
+  "signals": []
 }
