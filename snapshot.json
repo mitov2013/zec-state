@@ -1,13 +1,13 @@
 {
-  "ts": 1795660154.9041538,
-  "time_utc": "2026-11-26 02:29:14",
+  "ts": 1795660598.2213254,
+  "time_utc": "2026-11-26 02:36:38",
   "bot_version": "1c5c5c1",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 780.64,
+  "price": 779.98,
   "funding_8h": 0.01,
   "oi_usd": 371445133.60458,
   "oi_delta_1h": 0.7224536361128758,
@@ -15,10 +15,49 @@
   "last_4h_close": 771.06,
   "last_1h_open": 767.13,
   "last_1h_close": 777.3,
-  "walls": [],
+  "walls": [
+    {
+      "price": 774.79,
+      "usd": 716691.59706,
+      "side": "bid"
+    },
+    {
+      "price": 773.27,
+      "usd": 785413.4320799999,
+      "side": "bid"
+    },
+    {
+      "price": 769.41,
+      "usd": 859606.3954800001,
+      "side": "bid"
+    },
+    {
+      "price": 784.34,
+      "usd": 724211.7112600001,
+      "side": "ask"
+    },
+    {
+      "price": 786.69,
+      "usd": 799030.8060300001,
+      "side": "ask"
+    },
+    {
+      "price": 790.63,
+      "usd": 883613.62241,
+      "side": "ask"
+    }
+  ],
   "agg_oi_usd": null,
   "agg_funding_8h": null,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": []
+  "signals": [
+    {
+      "setup": "A",
+      "side": "long",
+      "level": 776,
+      "message": "🟢 ВХОД В ЛОНГ (сетап A — отбой от пола): цена 779.98 у нижней границы, бид-стена $716,692 @ 774.79, фандинг 0.010%. Стоп $758.72, цели вверх к потолку $798.00–801.00",
+      "confirmed": true
+    }
+  ]
 }
