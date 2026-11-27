@@ -1,59 +1,59 @@
 {
-  "ts": 1795784086.4547558,
-  "time_utc": "2026-11-27 12:54:46",
+  "ts": 1795784548.5003855,
+  "time_utc": "2026-11-27 13:02:28",
   "bot_version": "1c5c5c1",
   "loop_ok": true,
   "last_error": null,
   "position": {
     "has_position": false
   },
-  "price": 758.03,
-  "funding_8h": 0.003697,
+  "price": 762.04,
+  "funding_8h": 0.003493,
   "oi_usd": 384995622.02988267,
   "oi_delta_1h": -0.18603386283995788,
   "oi_delta_4h": 1.96585188466842,
   "last_4h_close": 755.66,
-  "last_1h_open": 758.77,
-  "last_1h_close": 755.66,
+  "last_1h_open": 755.66,
+  "last_1h_close": 761.58,
   "walls": [
     {
-      "price": 753.87,
-      "usd": 738773.7532500001,
+      "price": 757.23,
+      "usd": 721054.85121,
       "side": "bid"
     },
     {
-      "price": 752.16,
-      "usd": 786277.9775999999,
+      "price": 754.2,
+      "usd": 803636.3016,
       "side": "bid"
     },
     {
-      "price": 747.55,
-      "usd": 859684.7426499999,
+      "price": 751.88,
+      "usd": 875513.13216,
       "side": "bid"
     },
     {
-      "price": 761.0,
-      "usd": 723526.838,
+      "price": 765.0,
+      "usd": 321947.19,
       "side": "ask"
     },
     {
-      "price": 763.04,
-      "usd": 733364.61136,
+      "price": 765.06,
+      "usd": 751079.2935599999,
       "side": "ask"
     },
     {
-      "price": 765.34,
-      "usd": 805072.6261,
-      "side": "ask"
-    },
-    {
-      "price": 768.75,
-      "usd": 896464.74375,
+      "price": 768.21,
+      "usd": 803211.9522300002,
       "side": "ask"
     },
     {
       "price": 770.0,
-      "usd": 587353.6900000001,
+      "usd": 598581.06,
+      "side": "ask"
+    },
+    {
+      "price": 773.73,
+      "usd": 897591.79332,
       "side": "ask"
     }
   ],
@@ -61,13 +61,5 @@
   "agg_funding_8h": null,
   "long_short_ratio": null,
   "liq_magnets": [],
-  "signals": [
-    {
-      "setup": "D",
-      "side": "short",
-      "level": 762,
-      "message": "🔴 ВХОД В ШОРТ (сетап D — отбой от потолка): цена 758.03 у верхней границы, отбойная 1H-свеча, фандинг 0.004%. Стоп $766.57, цель вниз $703.00",
-      "confirmed": true
-    }
-  ]
+  "signals": []
 }
